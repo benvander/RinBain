@@ -152,10 +152,7 @@ setwd("~/Extra 10s/ACInnovation/RinBain/data")
 Transactions <- read.csv("SampleTransactionData.csv")
 CustInfo <- read.csv("SampleCustInfo.csv")
 StoresList <- read.csv("Stores_Rollout.csv")
-
-## You can also read data from online hosted sources (could be useful to read directly from a client database).
-## I hosted one file on my GitHub page
-SurveyData <- read.csv("https://raw.githubusercontent.com/benvander/RinBain/master/data/SampleSurveyData.csv")
+SurveyData <- read.csv("SampleSurveyData.csv")
 
 ## Let's browse the data. First, transactions.
 
@@ -204,15 +201,90 @@ mosaicplot(t(table(StoresList$POSInstalled,StoresList$OwnershipStatus)),main="Th
 
 ##############################################################
 
-## Awesome. Let's look at a few more other examples.
+## Awesome. Let's look at another examples, this time of something I did for my case last week! 
 
+## This is something I did on a case last week
+## our client owns a portfolio of 7 companies, and they gave us forecasts for future profits for each of them. 
+## We want to simulate the outcomes for the total portfolio in a very simple Monte Carlo model.
 
+## Another cool thing: you can also read data from hosted sources (could be useful to read directly from a client database).
+## I hosted this file on my GitHub page
+InputForecasts <- read.csv("https://raw.githubusercontent.com/benvander/RinBain/master/data/CompanyScenarios.csv")
+InputForecasts <- InputForecasts[,2:8]; rownames(InputForecasts) <- c("High","Mid","Low")
+InputForecasts
 
+## Model each company's outcomes as normally distributed, with the mean equal to the Mid case, and standard deviation equal to the average of the distance to the High and Low cases.
 
+CompanyMeans <- as.numeric(InputForecasts[2,])
+CompanySDs <- (InputForecasts[1,]-InputForecasts[3,])/2
 
-##############
+## Create a correlation matrix between the companies
+
+PerfCor <- 1
+SampCor <- .7
+HighCor <- .9
+LowwCor <- .5
+
+CorMat <- matrix(c(
+  PerfCor,SampCor,SampCor,SampCor,SampCor,SampCor,LowwCor,
+  SampCor,PerfCor,SampCor,SampCor,HighCor,SampCor,LowwCor,
+  SampCor,SampCor,PerfCor,SampCor,SampCor,HighCor,LowwCor,
+  SampCor,SampCor,SampCor,PerfCor,SampCor,SampCor,LowwCor,
+  SampCor,HighCor,SampCor,SampCor,PerfCor,SampCor,LowwCor,
+  SampCor,SampCor,HighCor,SampCor,SampCor,PerfCor,LowwCor,
+  LowwCor,LowwCor,LowwCor,LowwCor,LowwCor,LowwCor,PerfCor),
+  nrow=length(CompanyMeans),ncol=length(CompanyMeans),byrow=TRUE)
+
+Sigma <- diag(CompanySDs) %*% CorMat %*% diag(CompanySDs)
+Decomp <- chol(Sigma)
+
+## Set a number of trials!
+
+NumTrials <- 100000
+Z <- matrix(rnorm(length(CompanyMeans)*NumTrials),ncol=NumTrials,nrow=length(CompanyMeans))
+Y <- CompanyMeans + Decomp%*%Z
+PortfolioOutcomes <- colSums(Y)
+
+c(mean(PortfolioOutcomes),sd(PortfolioOutcomes))
+hist(PortfolioOutcomes,main="Portfolio Outcomes",xlab="Portfolio Profits",col="gray70")
+
+## We can also write it out so it can be copied right into the Wizard!
+
+Outhist <- hist(PortfolioOutcomes,freq=TRUE)
+WizardData <- rbind(Outhist$breaks,c(Outhist$density,0))
+write.csv(WizardData,file="PortfolioOutcomes.csv")
+
+##############################################################
+
+## Another example with cluster analysis. Here's some more data.
+
+data <- read.csv("TourTimes.csv")
+Times <- data[,2:3]
+
+## Let's explore.
+
+plot(Times)
+abline(lm(Times[,2]~Times[,1]))
+cor(Times)
+
+## Correlation! But that doesn't look like the whole story... 
+## There seem to be two distinct groups, just if we're looking at it. Let's try cluster analysis!
+
+MyClusters <- kmeans(Times,2)
+plot(Times, col = MyClusters$cluster,main="Aha! Two clusters!")
+points(cl$centers, col = 1:2, pch = 8, cex = 2) # Shows the center of the clusters
+abline(lm(Times[,2]~Times[,1]))
+
 
 ## Answers
+
+# 2) 
+
+CustInfo[1:10,]
+AgeVsSpend <- cbind(CustInfo$Gender,CustInfo$AmountSpent)
+AgeVsSpend <- na.omit(AgeVsSpend)
+MyClusters <- kmeans(AgeVsSpend,2)
+plot(AgeVsSpend,col=MyClusters$cluster)
 
 # 3)
 
