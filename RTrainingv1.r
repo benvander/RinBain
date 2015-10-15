@@ -147,8 +147,7 @@ mosaicplot(t(sampledata), col=c("gray25","gray45","gray65","gray85","gray95"),of
 ## I'm reading in data that's hosted online! It takes a while to load because it's downloading it, not because it's slow to process.
 ## Then, you can read in the data as below:
 
-setwd("~/Extra 10s/ACInnovation/RinBain/data")
-
+setwd()
 Transactions <- read.csv("SampleTransactionData.csv")
 CustInfo <- read.csv("SampleCustInfo.csv")
 StoresList <- read.csv("Stores_Rollout.csv")
