@@ -258,7 +258,7 @@ write.csv(WizardData,file="PortfolioOutcomes.csv")
 
 ## Another example with cluster analysis. Here's some more data.
 
-data <- read.csv("TourTimes.csv")
+data <- read.csv("https://raw.githubusercontent.com/benvander/RinBain/master/data/TourTimes.csv")
 Times <- data[,2:3]
 
 ## Let's explore.
@@ -274,6 +274,17 @@ MyClusters <- kmeans(Times,2)
 plot(Times, col = MyClusters$cluster,main="Aha! Two clusters!")
 points(cl$centers, col = 1:2, pch = 8, cex = 2) # Shows the center of the clusters
 abline(lm(Times[,2]~Times[,1]))
+
+## That's obviously a very simple version of cluster analysis... 
+## My advice for most people is to not too much cluster analysis on your own
+## There's a lot of mathematical nuance you'll miss if you blindly apply the tools.
+
+##############################################################
+
+## And here we are! That's a nice brief intro to R and how you might make use of it at Bain. 
+## I hope you enjoyed, and please let me know if you have questions!
+
+##############################################################
 
 
 ## Answers
