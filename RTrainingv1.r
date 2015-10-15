@@ -141,14 +141,23 @@ mosaicplot(t(sampledata), col=c("gray25","gray45","gray65","gray85","gray95"),of
 
 ## Let's try a few examples more similar to case work. The in this case, a retail client gave us several of their data files.
 
-## Reading in data
+## To do that, we'll need to load in external data. You saved it from the email earlier.
+## Select the console, then go to File -> Change dir and navigate to where you saved that.
 
-Transactions <- read.csv("C:/Users/02BJV/Documents/Extra 10s/ACInnovation/Output/SampleTransactionData.csv")
-CustInfo <- read.csv("C:/Users/02BJV/Documents/Extra 10s/ACInnovation/Output/SampleCustInfo.csv")
-StoresList <- read.csv("C:/Users/02BJV/Documents/Extra 10s/ACInnovation/Output/Stores_Rollout.csv")
-SurveyData <- read.csv("C:/Users/02BJV/Documents/Extra 10s/ACInnovation/Output/SampleSurveyData.csv")
+## I'm reading in data that's hosted online! It takes a while to load because it's downloading it, not because it's slow to process.
+## Then, you can read in the data as below:
 
-## Let's browse it. First, transactions.
+setwd("~/Extra 10s/ACInnovation/RinBain/data")
+
+Transactions <- read.csv("SampleTransactionData.csv")
+CustInfo <- read.csv("SampleCustInfo.csv")
+StoresList <- read.csv("Stores_Rollout.csv")
+
+## You can also read data from online hosted sources (could be useful to read directly from a client database).
+## I hosted one file on my GitHub page
+SurveyData <- read.csv("https://raw.githubusercontent.com/benvander/RinBain/master/data/SampleSurveyData.csv")
+
+## Let's browse the data. First, transactions.
 
 DataDimensions <- rbind(dim(Transactions),dim(CustInfo),dim(StoresList),dim(SurveyData)); colnames(DataDimensions) <- c("Number of Rows","Number of Columns"); rownames(DataDimensions) <- c("Transactions","CustInfo","StoresList","SurveyData")
 DataDimensions
@@ -168,7 +177,7 @@ CustInfo <- merge(CustInfo,AmountSpent,by = "IDs",all.x=TRUE)
 ## Easy. Now let's see if there's a difference in store incomes where they have the new POS systems installed.
 
 TotalNew <- StoresList[StoresList[,"POSInstalled"]=="Installed","TransactionTotal"]
-TotalOld <- StoresList[StoresList[,"POSInstalled"]=="Old-school","TransactionTotal"]
+TotalOld <- subset(StoresList,POSInstalled=="Old-school")[,"TransactionTotal"]
 t.test(TotalNew,TotalOld)
 
 ## What about if there's a connection between POS system and ownership status?
@@ -179,3 +188,37 @@ table(StoresList$POSInstalled,StoresList$OwnershipStatus)
 
 mosaicplot(t(table(StoresList$POSInstalled,StoresList$OwnershipStatus)),main="The owned stores haven't moved to the new POS system",col=c("red","gray50"),off=0)
 
+## Now you try!
+
+## 1) What is the median total transaction volume from stores in California?
+
+
+
+## 2) How do gender (M=1, F=2), marital status, and age impact customer spending?
+
+
+
+## 3) How is NPS score related to customer demographics? Is NPS related to liklihood of returning?
+
+
+
+##############################################################
+
+## Awesome. Let's look at a few more other examples.
+
+
+
+
+
+##############
+
+## Answers
+
+# 3)
+
+summary(SurveyData$npsClient)
+NPSresult <- rep(NA,nrow(SurveyData))
+NPSresult <- replace(NPSresult,SurveyData$npsClient<=8,"Neutral")
+NPSresult <- replace(NPSresult,SurveyData$npsClient<=6,"Detractor")
+NPSresult <- replace(NPSresult,SurveyData$npsClient>=9,"Promoter")
+table(NPSresult,SurveyData$LikelyReturn)
