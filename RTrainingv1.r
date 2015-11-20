@@ -44,13 +44,13 @@ myVector + yourVector
 
 ## We also need to learn how to use functions. Functions can be applied to objects, as below:
 
-length(myVector)
+length(textVector)
 sum(myVector)
 mean(myVector/2)
 
 ## Try finding the median of the sum of myVector and yourVector
 
-
+median(myVector + yourVector)
 
 ## Each function evaluates to a value , so they can be combined or stored as objects themselves. 
 
@@ -58,19 +58,24 @@ myRange <- max(myVector) - min(myVector)
 myRange
 
 ## We can also refer to specific values within our vector.
+## Also worth noting: in the great "0 index vs 1 index" debate, R starts starts with 1.
 
 yourVector[3]
 textVector[2]
 (2*myVector)[2]+yourVector[4]
-myVector[c(1,3)]
+yourVector[c(1,3)]
 
 ## In addition to vectors, we can also look at tables (called "Data Frames" in R).
-## R has several built in, so let's look at one.
+## R has several built in, so let's look at one: results from Motor Trend's car testing.
 
-mtcars # Results from Motor Trends car testing
+mtcars
 
 ## That looks a lot like what you'd be used to in Excel!
 ## You can easily access different parts of the table.
+## For this, you pass R the "coordinates" of a particular element. 
+## Use square brackets separated by a comma: [row#,col#]
+## If one or the other is left blank, R will return an entire row/column instead of a particular element
+## Values for columns and rows can be either their names as strings or an integer identifying their position
 
 mtcars[2,3]
 mtcars[5,]
@@ -81,10 +86,14 @@ mtcars[5,]
 sum(mtcars[,1])
 median(mtcars[,"hp"])
 max(mtcars$gear)
+
+## Now you try. What's the average 1/4 mile time of this set of cars?
+
+mean(mtcars$qsec)
+
+## R is also especially great for other quick analysis! Check out these.
+
 colMeans(mtcars)
-
-## R is also especially great for other quick analysis! Check out this one.
-
 table(mtcars$gear)
 
 ## Then, we can quickly turn it into charts!
@@ -121,7 +130,7 @@ Bar2 <- rnorm(5,mean = 50, sd = 25)
 Bar3 <- runif(5,1,100)
 
 sampledata <- cbind(Bar1,Bar2,Bar3)
-rownames(sampledata) <- c("Series1","Series2","Series3","Series4","series5")
+rownames(sampledata) <- c("Series1","Series2","Series3","Series4","Series5")
 
 ## So here's our data set to put into a mekko:
 
@@ -136,6 +145,7 @@ rownames(sampledata) <- rev(rownames(sampledata))
 mosaicplot(t(sampledata), col=c("gray25","gray45","gray65","gray85","gray95"),off=0,main="Thanks, Internet!!")
 
 ## You now know enough about R to get started playing around!
+## Now back to the slides for a moment.
 
 ##############################################################
 
@@ -147,7 +157,6 @@ mosaicplot(t(sampledata), col=c("gray25","gray45","gray65","gray85","gray95"),of
 ## I'm reading in data that's hosted online! It takes a while to load because it's downloading it, not because it's slow to process.
 ## Then, you can read in the data as below:
 
-setwd()
 Transactions <- read.csv("SampleTransactionData.csv")
 CustInfo <- read.csv("SampleCustInfo.csv")
 StoresList <- read.csv("Stores_Rollout.csv")
@@ -159,9 +168,9 @@ DataDimensions <- rbind(dim(Transactions),dim(CustInfo),dim(StoresList),dim(Surv
 DataDimensions
 
 Transactions[1:10,]
-CustInfo[1:10,]
-StoresList[1:10,]
-SurveyData[1:10,]
+head(CustInfo)
+head(StoresList)
+head(SurveyData)
 
 ## Cool. First, let's add a total spent to each row of our customer dataset. 
 
@@ -188,27 +197,41 @@ mosaicplot(t(table(StoresList$POSInstalled,StoresList$OwnershipStatus)),main="Th
 
 ## 1) What is the median total transaction volume from stores in California?
 
+CAonly <- subset(StoresList,State=="CA")
+median(CAonly$TransactionTotal)
+
+## 2) Is NPS related to liklihood of returning?
+
+table(SurveyData$npsClient,SurveyData$LikelyReturn)
 
 
-## 2) How do gender (M=1, F=2), marital status, and age impact customer spending?
+## 3) How does gender (M=1, F=2) impact customer spending? What about age?
 
 
 
-## 3) How is NPS score related to customer demographics? Is NPS related to liklihood of returning?
-
-
+## So far, we've mainly covered the type of thing you might've done in Excel, esp. with pivot tables.
+## (though it probably would've been tougher with these large data sets!)
+## But, R can do so much more...
 
 ##############################################################
 
-## Awesome. Let's look at another examples, this time of something I did for my case last week! 
-
-## This is something I did on a case last week
-## our client owns a portfolio of 7 companies, and they gave us forecasts for future profits for each of them. 
+## This next example is code copied from something I did on a case last week (it's geniunely useful!)
+## Our client owns a portfolio of 7 companies, and they gave us forecasts for future profits for each of them. 
 ## We want to simulate the outcomes for the total portfolio in a very simple Monte Carlo model.
 
 ## Another cool thing: you can also read data from hosted sources (could be useful to read directly from a client database).
-## I hosted this file on my GitHub page
-InputForecasts <- read.csv("https://raw.githubusercontent.com/benvander/RinBain/master/data/CompanyScenarios.csv")
+## Before we get into the analysis, we need to talk about loading packages.
+## The open source community has spent a ton of time developing awesome extensions for R, and we can load them as packages.
+## Let's do that so we can read data behind secure links, because I hosted this file on my GitHub page.
+
+## Select Packages -> Install Packages -> USA CA (just which server you're downloading from) -> RCurl (it's alphabetical)
+## There are, as you'll notice, a bazillion others. A lot of them are cool!!
+## You can also do it in code (instead of the GUI), which I've done here:
+
+install.packages("RCurl")
+library(RCurl)
+URL <- getURL("https://raw.githubusercontent.com/benvander/RinBain/master/data/CompanyScenarios.csv")
+InputForecasts <- read.csv(text=URL)
 InputForecasts <- InputForecasts[,2:8]; rownames(InputForecasts) <- c("High","Mid","Low")
 InputForecasts
 
@@ -257,7 +280,8 @@ write.csv(WizardData,file="PortfolioOutcomes.csv")
 
 ## Another example with cluster analysis. Here's some more data.
 
-data <- read.csv("https://raw.githubusercontent.com/benvander/RinBain/master/data/TourTimes.csv")
+URL <- getURL("https://raw.githubusercontent.com/benvander/RinBain/master/data/TourTimes.csv")
+data <- read.csv(text=URL)
 Times <- data[,2:3]
 
 ## Let's explore.
@@ -271,12 +295,13 @@ cor(Times)
 
 MyClusters <- kmeans(Times,2)
 plot(Times, col = MyClusters$cluster,main="Aha! Two clusters!")
-points(cl$centers, col = 1:2, pch = 8, cex = 2) # Shows the center of the clusters
+points(myClusters$centers, col = 1:2, pch = 8, cex = 2) # Shows the center of the clusters
 abline(lm(Times[,2]~Times[,1]))
 
 ## That's obviously a very simple version of cluster analysis... 
-## My advice for most people is to not too much cluster analysis on your own
+## My advice for most people is to not do too much cluster analysis on your own
 ## There's a lot of mathematical nuance you'll miss if you blindly apply the tools.
+## A great free text on this, machine learning, and other statistical topics can be found here: http://www-bcf.usc.edu/~gareth/ISL/
 
 ##############################################################
 
@@ -288,19 +313,22 @@ abline(lm(Times[,2]~Times[,1]))
 
 ## Answers
 
-# 2) 
+# 1) 
 
-CustInfo[1:10,]
-AgeVsSpend <- cbind(CustInfo$Gender,CustInfo$AmountSpent)
-AgeVsSpend <- na.omit(AgeVsSpend)
-MyClusters <- kmeans(AgeVsSpend,2)
-plot(AgeVsSpend,col=MyClusters$cluster)
+CAStores <- subset(StoresList,State="CA")
+median(CAStores$TransactionTotal)
+head(CAStores)
 
-# 3)
+# 2) Various. One option:
 
-summary(SurveyData$npsClient)
-NPSresult <- rep(NA,nrow(SurveyData))
-NPSresult <- replace(NPSresult,SurveyData$npsClient<=8,"Neutral")
-NPSresult <- replace(NPSresult,SurveyData$npsClient<=6,"Detractor")
-NPSresult <- replace(NPSresult,SurveyData$npsClient>=9,"Promoter")
-table(NPSresult,SurveyData$LikelyReturn)
+npsTable <- table(SurveyData$npsClient,SurveyData$LikelyReturn)
+npsTable
+npsTable <- rbind(colSums(npsTable[1:7,]),colSums(npsTable[8:9,]),colSums(npsTable[10:11,]))
+rownames(npsTable) <- c("Detractor","Neutral","Promoter")
+npsTable
+
+# 3) Various. One option:
+
+aggregate(CustInfo$AmountSpent~CustInfo$Gender,FUN=mean)
+plot(CustInfo$Age,CustInfo$AmountSpent)
+

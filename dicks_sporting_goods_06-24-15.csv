@@ -1,0 +1,632 @@
+﻿Store Number,Store Name,Store Location,Address,City,State,Zip Code,Phone Number,Latitude,Longitude
+1,Binghamton,Binghamton,347 Court St.,Binghamton,NY,13904,(607) 724-4361,42.1048,-75.89
+2,Vestal,Town Square Mall,2433 Vestal Pkwy East,Vestal,NY,13850,(607) 797-5220,42.0983,-76.0087
+3,Dewitt,Shoppingtown Mall,3649 Erie Blvd East,Dewitt,NY,13214,(315) 449-2232,43.0391,-76.0652
+4,Clay,Great Northern Mall,4081 State Highway 31,Clay,NY,13041,(315) 652-7674,43.1885,-76.2274
+6,Greece,The Mall At Greece Ridge,304 Greece Ridge Center,Rochester,NY,14626,(585) 227-3730,43.2049,-77.6938
+7,Wilkes-Barre,Arena Hub Plaza,479 Arena Hub Plaza,Wilkes-Barre,PA,18702,(570) 823-8288,41.2391,-75.8403
+8,Scranton,Dickson City Crossing,600 Commerce Blvd.,Dickson City,PA,18519,(570) 963-1550,41.4628,-75.649
+11,Amherst,Amherst,281 Meyer Road,Amherst,NY,14226,(716) 833-4761,42.9934,-78.8126
+14,Williamsville,Eastgate Plaza,5105 Transit Rd,Williamsville,NY,14221,(716) 565-0417,42.9865,-78.6939
+15,Middletown,Crystal Run Galleria,"1 N. Galleria Drive, Suite 132",Middletown,NY,10941,(845) 692-5035,41.4523,-74.3684
+16,Poughkeepsie,Poughkeepsie Galleria,2001 South Rd,Poughkeepsie,NY,12601,(845) 297-4767,41.6253,-73.9216
+17,Springhurst,Springhurst Town Center,3555 Springhurst Blvd,Louisville,KY,40241,(502) 429-0776,38.298,-85.5588
+19,Hurstbourne,Stoneybrook Shopping Center,3500 S Hurstbourne Pkwy,Louisville,KY,40299,(502) 499-9029,38.1981,-85.6048
+20,Latham,Latham Farms Shopping Center,579 Troy/Schenectady Road #124,Colonie,NY,12110,(518) 783-0701,42.753,-73.7615
+22,Saratoga,Wilton Mall At Saratoga,3065 Rt. 50,Saratoga Springs,NY,12866,(518) 583-7218,43.1036,-73.7374
+23,Reading,Broadcasting Square,"2767 Paper Mill Road, Space F",Reading,PA,19610,(610) 373-7366,40.3595,-75.9827
+24,Washington,Strabane Square,347 Washington Road,Washington,PA,15301,(724) 229-7556,40.1893,-80.2265
+26,Lexington,Hamburg Pavilion,1968 Pavillion Way,Lexington,KY,40509,(859) 264-8800,38.0241,-84.4157
+28,Victor,Cobblestone Court,20 Cobblestone Court Drive,Victor,NY,14564,(585) 223-1530,43.0306,-77.4379
+30,Erie,Millcreek Pavilion,2088 Interchange Rd,Erie,PA,16565,(814) 864-3500,42.07,-80.1044
+31,York,Market Square,Rt. 30 & Kenneth Road,York,PA,17404,(717) 848-1696,39.9746,-76.7625
+32,Newington,Turnpike Plaza,2985 Berlin Turnpike,Newington,CT,06111,(860) 666-3877,41.6684,-72.7217
+33,Brandywine,Brandywine Towne Center,1000 Brandywine Parkway,Wilmington,DE,19803,(302) 477-9577,39.8312,-75.5406
+34,Christiana,Christiana Center,100 Center Drive,Newark,DE,19702,(302) 738-8322,39.6744,-75.6525
+35,Springfield,Riverdale Shopping Center,1081 Riverdale Street,West Springfield,MA,01089,(413) 781-6155,42.1329,-72.6226
+37,Mishawaka,Princess City Plaza,4520 Grape Road,Mishawaka,IN,46545,(574) 243-4789,41.7009,-86.184
+38,Mechanicsburg,Hampden Commons,5950 Carlisle Pike/Us Rt 11,Mechanicsburg,PA,17050,(717) 766-8377,40.2404,-76.9906
+39,Harrisburg,Colonial Commons,5086 Jonestown Rd,Harrisburg,PA,17112,(717) 652-3174,40.3122,-76.8058
+42,Robinson,Robinson Town Centre,5000 Robinson Centre Drive,Pittsburgh,PA,15205,(412) 787-1330,40.4532,-80.1564
+48,Holland,Spring Meadow,1407 Spring Meadow Drive,Holland,OH,43528,(419) 867-0810,41.6156,-83.696
+49,North Toledo,North Towne Commons,851 West Alexis Rd,Toledo,OH,43612,(419) 269-2262,41.719,-83.5654
+50,Rockford,Rockford Shopping Center,6380 E. State Street,Rockford,IL,61108,(815) 397-7115,42.2704,-88.9924
+63,Fairlawn,Market Square At Montrose,4036 Medina Road,Akron,OH,44333,(330) 668-1231,41.1357,-81.6418
+64,Canton,Belden Parke Crossings,5544 N.W. Dressler Road,Canton,OH,44720,(330) 966-0990,40.8613,-81.4322
+65,Highland Heights,Builder's Square,6235 Wilson Mills Road,Highland Heights,OH,44143,(440) 449-9199,41.539,-81.4517
+66,Mansfield,Ontario Towne Center,2235 Walker Lake Road,Ontario,OH,44903,(419) 747-2727,40.7878,-82.5952
+70,Florence,Turfway Crossing,"1336 Hansel Avenue, Suite 200",Florence,KY,41042,(859) 283-2702,39.018565,-84.637604
+71,Eastgate,Eastgate Pavilion,650 Eastgate South Drive,Cincinnati,OH,45245,(513) 752-5525,39.0952,-84.2755
+72,Springdale,Tri-County Commons,975 E. Kemper Road,Springdale,OH,45246,(513) 671-0707,39.2846,-84.4543
+73,Kenwood,Sycamore Plaza At Kenwood,7800 Montgomery Road,Cincinnati,OH,45236,(513) 793-1033,39.1977,-84.3783
+74,Western Hills,Western Hills Market Place,5555 Glenway Avenue,Cincinnati,OH,45238,(513) 347-7570,39.1321,-84.6118
+76,White Marsh,Nottingham Square,5220 Campbell Blvd.,Baltimore,MD,21236,(410) 933-0134,39.3718,-76.4527
+77,Hunt Valley,Hunt Valley Towne Plaza,118 Shawan Road,Cockeysville,MD,21030,(410) 584-9050,39.4988,-76.6532
+78,Columbia,Columbia Crossing,6221 Columbia Crossing Circle,Columbia,MD,21045,(410) 872-1100,39.1984,-76.8164
+79,Bel Air,Macphail Crossing East,540 West Macphail Road,Bel Air,MD,21014,(410) 638-7404,39.5238,-76.3463
+80,Franklin Mills,Liberty Plaza,20 Franklin Mills Blvd.,Philadelphia,PA,19154,(215) 637-3230,40.0855,-74.9675
+81,Oxford Valley,Court At Oxford Valley,150 Commerce Blvd.,Fairless Hills,PA,19030,(215) 946-8750,40.1807,-74.8697
+82,Moorestown,East Gate Square,1300 Nixon Drive,Mt Laurel,NJ,08054,(856) 802-1225,39.9397,-74.9594
+83,Downingtown,Brandywine Square,1026 E. Lancaster Avenue,Downingtown,PA,19335,(610) 518-5200,40.0162,-75.6796
+85,Atlantic City,Wrangleborough Consumer Square,210 Consumer Square,Mays Landing,NJ,08330,(609) 407-1711,39.4509,-74.6295
+86,Deptford,Deptford,399 Almonesson Road,Deptford,NJ,08096,(856) 384-8533,39.8301,-75.1026
+87,Burlington,Towne Crossing Shopping Center,"2703 Rt. 541, Suite 4",Burlington Twp,NJ,08016,(609) 747-0400,40.0369,-74.8233
+88,Troy,Oakland Square,400 John R. Road,Troy,MI,48083,(248) 577-2879,42.5377,-83.1047
+89,Taylor,Taylor Retail Center,23349 Eureka Road,Taylor,MI,48180,(734) 374-0429,42.1951,-83.2594
+90,Lansing,Eastwood Towne Center,2801 Preyde Blvd,Lansing,MI,48912,(517) 702-1300,42.7624,-84.5141
+92,Utica,North Pointe Center,45230 Northpointe Blvd,Utica,MI,48315,(586) 254-2653,42.6296,-82.9986
+93,Rochester Hills,Winchester Center,I290 S. Rochester Road,Rochester Hills,MI,48307,(248) 608-9696,42.6624,-83.1363
+94,Saginaw,West Valley Shopping Center,3343 Tittabawassee Road,Saginaw,MI,48604,(989) 793-3346,43.4774,-83.9821
+96,Novi,Highpoint Shopping Center,21061 Haggerty Road,Novi,MI,48375,(248) 735-8180,42.4406,-83.4374
+97,Altoona,Logan Town Center,149 Falon Lane,Altoona,PA,16602,(814) 941-2273,40.487,-78.3841
+98,Willow Grove,Plaza At Willow Grove,2510 Moreland Rd,Willow Grove,PA,19090,(215) 657-8977,40.1423,-75.1207
+99,Plymouth Meeting,The Metroplex,2430 Chemical Road,Plymouth Meeting,PA,19462,(610) 260-4400,40.1056,-75.2936
+102,Midlothian,Chesterfield Plaza,1520 W. Koger Center Blvd,North Chesterfield,VA,23235,(804) 897-5299,37.515,-77.6109
+104,Davenport,Elmore Plaza,5250 Elmore Avenue,Davenport,IA,52807,(563) 441-7500,41.5722,-90.5309
+105,Princeton,Nassau Park Pavilion,530 Nassau Park Blvd,Princeton,NJ,08540,(609) 419-1661,40.3059,-74.6796
+106,Elyria,Midway Market Square,360 Market Dr,Elyria,OH,44035,(440) 324-4100,41.3907,-82.1101
+107,Hagerstown,Hagerstown,17780 Garland Groh Blvd,Hagerstown,MD,21740,(240) 420-0140,39.6563,-77.7524
+108,South Charleston,The Shoppes Of Trace Fork Plaza,51 R H L Blvd,South Charleston,WV,25309,(304) 746-6256,38.3357,-81.7116
+109,Appleton,Appleton,4350 Greenville Drive,Appleton,WI,54913,(920) 954-9266,44.2751,-88.4718
+110,Greensburg,Hempfield Pointe Plaza,"Rr 17, Box 18",Greensburg,PA,15601,(724) 522-9777,40.3106,-79.5965
+111,Fort Wayne,Apple Glen Crossing,1520 Apple Glen Blvd.,Fort Wayne,IN,46804,(260) 434-0181,41.0713,-85.2034
+112,State College,The Colonnade At State College,325 Lowes Blvd,State College,PA,16803,(814) 861-1350,40.8125,-77.9073
+113,Colerain,Colerain Town Center,10220 Colerain Ave,Cincinnati,OH,45251,(513) 741-0800,39.2612,-84.599
+114,Glen Allen,The Creeks,9940 Brook Road,Glen Allen,VA,23059,(804) 261-1853,37.6704,-77.4647
+115,Independence,Bolger Square,17730 E. 39Th Street,Independence,MO,64055,(816) 350-0089,39.051,-94.3707
+116,Ward Parkway,Ward Parkway Center,"8600 Ward Parkway, Suite 2002",Kansas City,MO,64114,(816) 363-1198,38.97,-94.606
+117,Olathe,Northridge Plaza,15280 W. 119Th Street,Olathe,KS,66062,(913) 254-9196,38.915,-94.7621
+118,Kansas City,Zona Rosa,8665 Nw Prairie View Road,Kansas City,MO,64153,(816) 436-3524,39.2514,-94.661
+119,Merriam,Merriam Towne Center,5600 Antioch Road,Merriam,KS,66202,(913) 432-3945,39.0277,-94.6891
+121,Bainbridge,Bainbridge Shopping Center,7305 Marketplace Drive,Aurora,OH,44202,(330) 562-4200,41.3495,-81.3881
+123,Lynchburg,Ward's Crossing,4026-C Wards Road,Lynchburg,VA,24502,(434) 832-5666,37.3473,-79.191
+124,Champaign,Pine Tree Plaza,2113 North Prospect Avenue,Champaign,IL,61822,(217) 352-4173,40.1416,-88.2606
+125,Knoxville,The Commons,221 North Peters Road,Knoxville,TN,37923,(865) 531-2221,35.9152,-84.084
+126,Chattanooga,Hamilton Village,"2020 Gunbarrel Road, Sutie 182",Chattanooga,TN,37421,(423) 892-3122,35.0317,-85.1505
+127,Roanoke,Valley View Mall,1910 Valley View Blvd Nw,Roanoke,VA,24012,(540) 265-0861,37.3071,-79.9619
+128,Short Pump,Short Pump Town Center,"11800 W Broad Street, Suite 1096",Richmond,VA,23233,(804) 360-8165,37.6573,-77.6189
+129,Homestead,The Waterfront,350 East Waterfront Drive,Homestead,PA,15120,(412) 476-9940,40.4101,-79.9111
+130,Evansville,Evansville Pavilion,"6601 E Lloyd Expressway, Suite 2",Evansville,IN,47715,(812) 402-9100,37.9744,-87.4701
+131,Racine,Southland Center,2710-B South Green Bay Road,Mount Pleasant,WI,53406,(262) 554-8117,42.7002,-87.8556
+132,Topeka,Home Depot Extension,5900 Sw Huntoon Street,Topeka,KS,66604,(785) 271-5398,39.0459,-95.759
+133,Wichita,Towne West Center,4600 W. Kellogg Drive,Wichita,KS,67209,(316) 942-0910,37.678,-97.4014
+134,Lee's Summit,Summit Woods Crossing,1600 Nw Chipman Road,Lee's Summit,MO,64081,(816) 525-3006,38.9308,-94.4074
+135,Wichita,Tall Grass Center,2057 N. Rock Road,Wichita,KS,67206,(316) 682-6811,37.7211,-97.2468
+138,Bloomington,Bloomington,200 N. Greenbriar Drive,Normal,IL,61761,(309) 454-1602,40.5129,-88.9514
+139,Omaha,Oakview Plaza South,3125 Oakview Drive,Omaha,NE,68144,(402) 330-1184,41.2279,-96.1297
+141,Charlottesville,Rio Hill Shopping Center,1940 Rio Hill Center,Charlottesville,VA,22901,(434) 974-5640,38.0883,-78.4748
+142,Manassas,Bull Run Plaza,10800 Sudley Manor Drive,Manassas,VA,20109,(703) 257-4300,38.7877,-77.5177
+143,Waldorf,St. Charles Towne Center,11080 Mall Circle Road,Waldorf,MD,20603,(301) 885-1762,38.6184,-76.9242
+144,Clarksburg,Meadowbrook Mall,"2399 Meadowbrook Mall, Unit #10",Bridgeport,WV,26330,(304) 848-0482,39.3154,-80.274
+145,Lynnhaven,Lynnhaven Mall,"701 Lynnhaven Parkway, Suite 1001",Virginia Beach,VA,23452,(757) 463-4379,36.8183,-76.0698
+146,Huntington,Huntington Mall,"Rt 60 Mall Road, Unit 500",Huntington,WV,25504,(304) 733-9720,38.4228,-82.2679
+147,Fredericksburg,Spotsylvania Mall,"137 Spotsylvania Mall, Unit 290",Fredericksburg,VA,22407,(540) 548-1200,38.2928,-77.5115
+148,East Brunswick,East Brunswick,325 State Route 18,East Brunswick,NJ,08816,(732) 651-3284,40.4555,-74.4021
+150,Williston,Maple Tree Place,1355 Maple Tree Place,Williston,VT,05495,(802) 288-9854,44.4429,-73.1113
+151,Worcester,Lincoln Plaza,541E Lincoln Street,Worcester,MA,01605,(508) 595-9808,42.2929,-71.7706
+153,Waterford,Waterford Commons,"915 Hartford Turnpike, #A1",Waterford,CT,06385,(860) 447-2886,41.3829,-72.1522
+154,Kingston,Hudson Valley Mall,"1300 Ulster Ave., Suite 127",Kingston,NY,12401,(845) 382-2151,41.9678,-73.9849
+156,Ithaca,Pyramid Mall,40 Catherwood Road,Ithaca,NY,14850,(607) 257-5077,42.4821,-76.4898
+157,East Hanover,East Hanover,240 Route 10 West,East Hanover,NJ,07936,(973) 428-0889,40.8092,-74.3722
+158,Watertown,Salmon Run Mall,21143 Salmon Run Loop West,Watertown,NY,13601,(315) 786-8681,43.9793,-75.9531
+159,Plattsburgh,Champlain Centre North,60 Smithfield Blvd,Plattsburgh,NY,12901,(518) 562-1121,44.7031,-73.4906
+160,North Attleboro,Attleboro Marketplace,1360 South Washington Street,North Attleboro,MA,02760,(508) 699-8475,41.9381,-71.3453
+161,Warwick,Warwick Centre,1350 East Bald Hill Road,Warwick,RI,02886,(401) 823-8079,41.7013,-71.4931
+162,Millbury,The Shoppes At Blackstone Valley,"70 Worchester Providence Turnpike, Suite 200",Millbury,MA,01527,(508) 865-7250,42.1954,-71.7781
+163,Smithfield,The Crossing At Smithfield,"371 Putnam Pike, Suite 300",Smithfield,RI,02917,(401) 232-0051,41.875,-71.5168
+164,Glens Falls,Aviation Mall,"578 Aviation Road, Space D-103",Queensbury,NY,12804,(518) 743-8790,43.3263,-73.6789
+165,Portland,Portland,385 Gorham Road,South Portland,ME,04106,(207) 828-4950,43.6375,-70.3318
+166,Seekonk,Seekonk,275 Highland Ave,Seekonk,MA,02771,(508) 336-3004,41.7972,-71.3327
+168,Enfield,State Line Plaza,130 Elm Street,Enfield,CT,06082,(860) 253-9475,41.9949,-72.5756
+169,Meriden,Westfield Shoppingtown Meriden,470 Lewis Avenue,Meriden,CT,06451,(203) 686-0462,41.5512,-72.8101
+170,Westlake,Crocker Park,300 Crocker Park Blvd,Westlake,OH,44145,(440) 835-3723,41.4592,-81.9543
+171,Allentown,Allentown,2631 Macarther Road,Whitehall,PA,18052,(610) 231-0691,40.647,-75.4908
+173,Mason,Deerfield Town Center,5700 Deerfield Boulevard,Mason,OH,45040,(513) 770-4070,39.3088,-84.3165
+174,Niles,Romar Plaza,5809 Youngstown-Warren Road,Niles,OH,44446,(330) 505-9233,41.2099,-80.7465
+175,Plymouth,The Plaza At Colony Place,205 Colony Place,Plymouth,MA,02360,(508) 746-6932,41.9531,-70.7172
+176,Hadley,Hampshire Mall,367 Russell Street,Hadley,MA,01035,(413) 584-6934,42.3565,-72.5487
+177,East Madison,East Towne Mall,350 East Towne Mall,Madison,WI,53704,(608) 241-2764,43.1258,-89.3034
+178,West Madison,West Towne Mall,237 West Towne Mall,Madison,WI,53719,(608) 829-1313,43.0563,-89.5076
+179,Springfield,White Oaks Mall,2501 W. Wabash Avenue,Springfield,IL,62704,(217) 726-6451,39.766,-89.7031
+180,Avon,Avon Commons,10375 East Us Highway 36,Avon,IN,46123,(317) 271-7850,39.7605,-86.339
+181,Greenwood,Greenwood Mall,1251 Us 31 North,Greenwood,IN,46142,(317) 882-1079,39.6316,-86.119
+183,Carmel,Clay Terrace,14350 Clay Terrace Blvd.,Carmel,IN,46032,(317) 818-3467,39.9963,-86.1312
+184,Washington,Washington Square,10202 E Washington Street,Washington,IN,46229,(317) 890-8802,39.7784,-85.9847
+185,Plainville,Connecticut Commons,280 New Britain Avenue,Plainville,CT,06062,(860) 747-2102,41.6732,-72.84
+186,Leominster,Orchard Hill Park,56 Orchard Hill Park Drive,Leominster,MA,01453,(978) 537-4081,42.5254,-71.7147
+187,Lexington,Fayette Mall,3645 Nicholasville Road,Lexington,KY,40503,(859) 273-1642,37.987,-84.5302
+188,Pittsburgh Mills,Galleria At Pittsburgh Mills,329 Pittsburgh Mills Circle,Tarentum,PA,15084,(724) 274-0240,40.5726,-79.7933
+190,Spartanburg,Westgate Plaza,"205 West Blackstock Road, Suite 960",Spartanburg,SC,29301,(864) 595-9455,34.9395,-81.9944
+191,Myrtle Beach,Mall Of South Carolina,600 Costal Grand Circle,Myrtle Beach,SC,29577,(843) 916-9148,33.7029,-78.9242
+193,Strongsville,Westfield Shoppingtown South Park,17071 Southpark Center,Strongsville,OH,44136,(440) 268-9153,41.3079,-81.8184
+195,Webster,Towne Center At Webster,1062 Ridge Road,Webster,NY,14580,(585) 872-1080,43.2111,-77.4492
+196,Rockaway,Rockaway Plaza,387 Mount Hope Avenue,Rockaway,NJ,07866,(973) 659-1950,40.9067,-74.5597
+198,Fayetteville,Fayetteville Pavilion,2051 Skibo Road,Fayetteville,NC,28314,(910) 867-8566,35.0543,-78.9699
+199,Winston Salem,Hanes Mall,164 Hanes Mall Circle,Winston Salem,NC,27103,(336) 659-3557,36.0663,-80.304
+200,University,The Village At University Place,8809 Jw Clay Blvd.,University,NC,28262,(704) 295-4411,35.3127,-80.7549
+201,Cary,Crossroad Plaza,401 Crossroads Blvd,Cary,NC,27518,(919) 851-7721,35.7622,-78.7359
+202,Wilmington,,816 South College Road,Wilmington,NC,28403,(910) 793-1904,34.221,-77.8857
+203,Hickory,Hickory Ridge,1860 Catawba Valley Blvd. Se,Hickory,NC,28602,(828) 431-3025,35.7008,-81.3101
+204,Columbia,Columbiana Station Shopping Center,1110 Bower Parkway,Columbia,SC,29212,(803) 749-0756,34.068,-81.1594
+205,Asheville,River Hills Shopping Center,107 A River Hills Road,Asheville,NC,28805,(828) 299-0077,35.5749,-82.5212
+206,Greensboro,Wendover Place Shopping Center,1208-A Bridford Parkway,Greensboro,NC,27407,(336) 856-8875,36.0587,-79.9075
+207,Durham,New Hope Commons,5422 New Hope Commons Drive,Durham,NC,27707,(919) 493-9884,35.9565,-78.9956
+208,Raleigh,Triangle Town Center,3630 Sumner Blvd,Raleigh,NC,27616,(919) 792-9090,35.8627,-78.5762
+209,Raleigh,Brier Creek Commons,"8021 Brier Creek Parkway, Suite 100",Raleigh,NC,27617,(919) 806-5153,35.91,-78.7806
+211,Huntsville,Westside Center,"6275 University Dr, Suite 16",Huntsville,AL,35806,(256) 922-9912,34.7411,-86.6808
+212,Florence,Cox Creek Centre,376 Cox Creek Parkway,Florence,AL,35630,(256) 760-4211,34.8424,-87.6354
+213,Matthews,Sycamore Commons,"10530 Ne Parkway, Suite J",Matthews,NC,28105,(704) 841-3959,35.1303,-80.7004
+214,Pineville,Pineville,9600 Pineville-Matthews Road,Pineville,NC,28134,(704) 540-4750,35.088,-80.8803
+215,Huntersville,Birkdale Village,8825 Townley Road,Huntersville,NC,28078,(704) 896-6244,35.445,-80.878
+216,Mooresville,Winslow Bay Commons,590 J. River Highway,Mooresville,NC,28117,(704) 662-9066,35.5981,-80.8698
+217,Garner,White Oak Crossing,145 Shenstone Blvd,Garner,NC,27529,(919) 662-4177,35.6945,-78.5804
+218,Charlotte,Northlake Mall,6445 Northlake Mall Drive,Charlotte,NC,28216,(704) 598-2577,35.3526,-80.8524
+219,Canton,Shoppes At Farmington Valley,110 Albany Turnpike,Canton,CT,06019,(860) 693-1619,41.8212,-72.8805
+220,Greenville,The Shops At Greenridge,1125 Woodruff Road,Greenville,SC,29607,(864) 284-6199,34.83,-82.2998
+221,Charleston,Citadel Mall,2070 Sam Rittenburg Blvd.,Charleston,SC,29407,(843) 573-0891,32.8013,-80.0307
+222,Keene,Monadnock Marketplace,42 Ash Brook Road,Keene,NH,03431,(603) 357-0861,42.9282,-72.3028
+223,Bangor,Bangor Mall,641 Stillwater Avenue,Bangor,ME,04401,(207) 990-5932,44.8302,-68.7493
+224,Pittsfield,Pittsfield,635 Merrill Road,Pittsfield,MA,01201,(413) 395-0870,42.465,-73.2067
+225,Lafayette,Tippecanoe Mall,2415 Sagamore Parkway South,Lafayette,IN,47905,(765) 449-0914,40.3928,-86.85
+226,Bloomington,College Mall,2850 E. 3Rd Street,Bloomington,IN,47401,(812) 335-1377,39.1604,-86.4959
+228,Fort Wayne,Fort Wayne,256-309 Coliseum Blvd.,Fort Wayne,IN,46805,(260) 470-4224,41.1198,-85.138
+229,Pottstown,Coventry Mall,Route 724 And Route 100,Pottstown,PA,19465,(610) 323-7100,40.2368,-75.6609
+230,Easton,The Village At Southmont Center,4423 Birkland Place,Easton,PA,18045,(610) 330-0383,40.6575,-75.2865
+232,Toledo,Westfield Shoppingtown Franklin Park,5001 Monroe Street,Toledo,OH,43623,(419) 474-0170,41.693,-83.6417
+233,Steubenville,Fort Steuben Mall,100 Mall Drive,Steubenville,OH,43952,(740) 266-6323,40.3668,-80.671
+234,Newington,The Crossings At Foxrun,45 Gosling Road,Portsmouth,NH,03801,(603) 431-8036,43.0937,-70.8025
+235,Jacksonville,St Johns Town Center,10390 Midtown Parkway,Jacksonville,FL,32246,(904) 642-4299,30.2568,-81.5245
+236,Brockton,Westgate Mall,435 Westgate Drive,Brockton,MA,02301,(508) 559-9290,42.0947,-71.0556
+237,North Dartmouth,Dartmouth Commons,475 State Road,Dartmouth,MA,02747,(508) 999-1617,41.6387,-71.0025
+238,Saugus,Square One Mall,1201 Broadway,Saugus,MA,01906,(781) 233-0476,42.4613,-71.0289
+240,Muskegon,The Lakes Mall,5660 S Harvey Parkway,Muskegon,MI,49444,(231) 798-8003,43.1493,-86.2017
+241,Hamilton,Bridgewater Falls,3363 Princeton Road,Hamilton,OH,45011,(513) 892-4302,39.3888,-84.5047
+242,West Mifflin,Century Iii Mall,"3075 Clairton Road, Space 800",West Mifflin,PA,15123,(412) 650-0132,40.3369,-79.943
+243,Morgantown,University Towne Centre,596 Giant Street,Granville,WV,26501,(304) 598-0554,39.6487,-80.0041
+244,Augusta,The Marketplace At Augusta,"80 Stephen King Drive, Suite 2",Augusta,ME,04330,(207) 622-3987,44.349,-69.7852
+245,Taunton,Silver City Galleria,2 Galleria Mall Drive,Taunton,MA,02780,(508) 823-8132,41.8631,-71.0529
+247,Newport News,Patrick Henry Mall,12300 Jefferson Avenue,Newport News,VA,23602,(757) 249-2140,37.1135,-76.4955
+248,Butler,Clearview Mall,1521 N. Main Street,Butler,PA,16001,(724) 284-8140,40.898,-79.9054
+252,Westmoreland,Westmoreland Mall,5289 Route 30,Greensburg,PA,15601,(724) 853-1752,40.2975,-79.5061
+253,Rutland,Green Mountain Plaza,320 Us Route 7 South,Rutland,VT,05701,(802) 773-2710,43.5852,-72.9706
+254,Larkridge,Larkridge Shopping Center,16521 Washington Street,Thornton,CO,80023,(303) 280-6153,39.9959,-104.982
+255,Natick,Sherwood Plaza,1336 Worchester Street,Natick,MA,01760,(508) 653-0908,42.2987,-71.3919
+256,Merrillville,Westfield Shoppingtown Southlake,2225 Southlake Mall,Merrillville,IN,46410,(219) 791-0610,41.4676,-87.3092
+258,Loveland,Promenade Shops At Centerra,5875 Sky Pond Drive,Loveland,CO,80537,(970) 461-9762,40.4157,-104.991
+259,Polaris,The Market At Polaris,1180 Polaris Parkway,Columbus,OH,43240,(614) 985-4729,40.1454,-82.9875
+260,Cherry Hill,Market Place At Garden State Park,2130 Route 70 West,Cherry Hill,NJ,08002,(856) 317-8394,39.9234,-75.0366
+262,Lake Grove,Smith Haven Mall,620 Smith Haven Mall,Lake Grove,NY,11755,(631) 265-2987,40.8642,-73.1338
+263,Orange Park,Orange Park Mall,1910 Wells Road,Orange Park,FL,32073,(904) 215-0207,30.1847,-81.7332
+264,Melbourne,Melbourne Square,1700 W. New Haven Avenue,Melbourne,FL,32904,(321) 984-4012,28.0806,-80.6508
+265,Burnsville,Burnsville Center,"901 County Road 42 West, B-200",Burnsville,MN,55306,(952) 898-0743,44.7449,-93.289
+266,Arlington Heights,Town & Country Shopping Center,401 E. Palatine Road,Arlington Heights,IL,60004,(847) 577-1283,42.1078,-87.9769
+267,Bloomingdale,Bloomingdale Court,328 West Army Trail Road,Bloomingdale,IL,60108,(630) 351-0823,41.9367,-88.1053
+269,Newnan,The Village At Newnan Crossing,382 Newnan Crossing Bypass,Newnan,GA,30265,(770) 253-1501,33.3871,-84.7638
+271,Concord,Patriot Place,295 Loudon Road,Concord,NH,03301,(603) 224-1564,43.227,-71.4866
+272,Brick,Brick 70 Plaza,487 Route 70,Brick,NJ,08723,(732) 477-4844,40.055,-74.1549
+273,Cedar Rapids,Market Place,4601 1St Avenue Se,Cedar Rapids,IA,52402,(319) 743-3066,42.0235,-91.6218
+274,York,York Town Center,2925 Concord Road,York,PA,17402,(717) 751-4450,39.9845,-76.6673
+275,Apex,Beaver Creek Crossings,1531 Beaver Creek Commons Drive,Apex,NC,27502,(919) 367-0194,35.7448,-78.8858
+276,Mcdonough,Southpoint,1855 Jonesboro Road,Mcdonough,GA,30253,(770) 957-4336,33.4632,-84.218
+277,Williamsport,Lycoming Mall,300 Lyncoming Mall Circle,Williamsport,PA,17756,(570) 546-2625,41.239,-76.8259
+278,Beavercreek,Mall At Fairfield Commons,"2727 Fairfield Commons, Unit 6",Beavercreek,OH,45431,(937) 426-2955,39.7663,-84.0567
+279,Plainfield,Metropolis Plainfield,339 Metropolis Mile,Plainfield,IN,46168,(317) 839-4803,39.7125,-86.3575
+280,Clarksville,River Falls Mall,951 E Lewis & Clark Parkway,Clarksville,IN,47129,(812) 288-2194,38.3187,-85.7602
+282,Milford,Westfield Shoppington Center,1201 Boston Post Road,Milford,CT,06460,(203) 876-0477,41.2343,-73.0382
+283,Dulles,Dulles Town Center,21070 Dulles Town Circle,Dulles,VA,20166,(571) 434-0046,39.032,-77.4225
+284,Mt. Juliet,Providence Market Place,"401 South Mt. Juliet Road, Suite 605",Mt. Juliet,TN,37122,(615) 773-6160,36.1679,-86.5076
+285,Cool Springs,Cool Springs Market,"2000 Malory Lane, Suite 270",Franklin,TN,37067,(615) 778-0595,35.9493,-86.8155
+287,Brandon,Brandon Town Center,901 Brandon Towne Center Mall,Brandon,FL,33511,(813) 684-3100,27.9328,-82.3274
+288,Citrus Park,Westfield Citrus Park,8100 Citrus Park Town Center,Tampa,FL,33625,(813) 920-5700,28.0694,-82.5783
+289,Nashville,Nashville West,6812 Charlotte Pike,Nashville,TN,37209,(615) 354-0102,36.1355,-86.8912
+290,Bailey's Crossroads,Crossroads Center,5716 Columbia Pike,Bailey's Crossroads,VA,22041,(703) 933-0736,38.8522,-77.1278
+291,Grove City,Parkway Centre,1656 Stringtown Road,Grove City,OH,43123,(614) 801-1033,39.8807,-83.0396
+293,Mchenry,Mchenry Square,3436 Shoppers Drive,Mchenry,IL,60051,(815) 578-8880,42.3675,-88.2652
+294,Brighton,Green Oak Village Place,9550 Village Place Blvd,Brighton,MI,48116,(810) 225-4849,42.5068,-83.7523
+295,Buckland Hills,The Pavilions At Buckland Hills,179 Pavillion Drive,Manchester,CT,06042,(860) 648-4044,41.8067,-72.5471
+296,Huntington,Melville Mall,870 Walt Whitman Road,Melville,NY,11747,(631) 421-3028,40.7992,-73.4096
+298,Littleton,Southwest Plaza,8501 West Bowles Avenue,Littleton,CO,80123,(720) 981-0618,39.6131,-105.095
+299,Maple Grove,Fountains Of Arbor Lakes,11361 Fountains Drive,Maple Grove,MN,55369,(763) 315-5377,45.0901,-93.4249
+301,Canton,Canton Marketplace,1810 Cumming Highway,Canton,GA,30115,(770) 345-1218,34.2351,-84.4604
+302,Cumming,Cumming Town Center,2145 Marketplace Blvd.,Cumming,GA,30041,(770) 292-9834,34.1935,-84.1299
+304,Dedham,Dedham Mall,180 Providence Highway,Dedham,MA,02026,(781) 329-2862,42.254,-71.1695
+306,Grand Rapids,Kentwood Towne Centre,5118 28Th Se,Grand Rapids,MI,49512,(616) 977-2301,42.908,-85.5427
+308,Christiansburg,River Valley Mall,100 New River Road,Christiansburg,VA,24073,(540) 381-0102,37.1645,-80.4283
+309,Jacksonville,Jacksonville,1112 Western Boulevard,Jacksonville,NC,28546,(910) 455-0928,34.7819,-77.394
+310,Collegeville,Providence Town Center,400 Front Street,Collegeville,PA,19426,(610) 409-9790,40.1639,-75.4796
+311,Deer Park,Town Center Promenade,21830 West Long Grove Road,Deer Park,IL,60010,(847) 550-1527,42.1637,-88.0593
+312,Oswego,Prairie Market,2470 Us Hwy 34,Oswego,IL,60543,(630) 554-9061,41.7016,-88.3063
+313,Tinley Park,Tinley Park Town Center,7370 West 191St,Tinley Park,IL,60487,(815) 806-4952,41.5478,-87.7983
+315,Longmont,Harvest Junction,210 Ken Pratt Blvd,Longmont,CO,80501,(303) 682-5740,40.1538,-105.097
+316,Wesley Chapel,Wesley Chapel,5925 Wesley Grove Blvd,Wesley Chapel,FL,33544,(813) 991-1618,28.2439,-82.3528
+317,Topsham,Topsham Fair Mall,131 Topsham Fair Mall Road,Topsham,ME,04086,(207) 721-3074,43.9325,-69.9846
+318,Salisbury,The Centre At Salisbury,2300 N. Salisbury Blvd.,Salisbury,MD,21801,(410) 219-1136,38.3976,-75.5654
+319,Wayne,Wayne Towne Center,76 Willowbrook Blvd,Wayne,NJ,07470,(973) 200-8077,40.8886,-74.2536
+320,Dale City,Smoke Town Station,13080 Worth Avenue,Dale City,VA,22192,(703) 491-9432,38.6497,-77.2959
+321,Murfreesboro,The Avenue Murfreesboro,2615 Medical Center Parkway,Murfreesboro,TN,37129,(615) 896-8882,35.8603,-86.448
+322,Colorado Springs,Chapel Hills Mall,1710 Briar Gate Blvd,Colorado Springs,CO,80920,(719) 264-1810,38.9468,-104.796
+323,Florence,Magnolia Mall,"David Mcleod Blvd, Suite 1500",Florence,SC,29501,(843) 413-1321,34.192,-79.8322
+324,Summerville,Azalea Square,355 Azalea Sq. Blvd.,Summerville,SC,29483,(843) 873-4065,33.038,-80.1614
+325,Columbus Park,Columbus Park Crossing,5550 Whittlesey Blvd.,Columbus Park,GA,31909,(706) 320-0179,32.5436,-84.9443
+326,Fayetteville,Fayette Pavilion,305 A Pavillion Parkway,Fayetteville,GA,30214,(678) 817-0676,33.482,-84.4473
+327,Rivergate,Northside Marketplace,2305 Gallatin Pike,Madison,TN,37115,(615) 855-1443,36.3066,-86.6822
+328,Beaver Valley,Beaver Valley Mall,675 Route 18,Monaca,PA,15061,(724) 770-9081,40.6755,-80.313
+329,Hilliard,Tanglewood Plaza,1825 Hilliard-Rome Road,Hilliard,OH,43026,(614) 777-1396,39.9888,-83.1543
+330,Birmingham,Brook Highland Plaza,5201 Highway 280 South,Birmingham,AL,35242,(205) 981-1320,33.4191,-86.6857
+331,Johnson City,Mall At Johnson City,2011 North Road Street,Johnson City,TN,37601,(423) 282-4430,36.3392,-82.3779
+332,Chesterfield,Chesterfield Commons,64 Thf Blvd.,Chesterfield,MO,63005,(636) 536-3718,38.6663,-90.5879
+333,Alpharetta,North Point Mall,6440 North Point Parkway,Alpharetta,GA,30022,(770) 521-1195,34.0442,-84.2925
+334,Bradenton,Centre Point Commons,4108 14Th Street West,Bradenton,FL,34205,(941) 751-6900,27.4643,-82.5781
+335,Flower Mound,The Highlands,5801 Long Prairie Road,Flower Mound,TX,75028,(972) 355-1111,33.0658,-97.084
+336,Concord,Afton Ridge,6080 Bayfield Parkway,Concord,NC,28027,(704) 262-7373,35.4173,-80.6789
+337,Dothan,Dothan Pavilion,4401 Montgomery Hwy,Dothan,AL,36303,(334) 671-1370,31.2649,-85.4439
+338,Montgomery,East Chase,7861 Eastchase Parkway,Montgomery,AL,36117,(334) 277-8180,32.3631,-86.1542
+341,Montgomeryville,Montgomery Mall,113 Montgomery Mall,North Wales,PA,19454,(215) 368-2186,40.2358,-75.2458
+342,Tigard,Washington Square,9402 Sw Washington Square Road,Tigard,OR,97223,(503) 598-3081,45.4519,-122.78
+347,Austin,Domain Crossing,3210 Kramer Lane,Austin,TX,78758,(512) 339-3299,30.3978,-97.7266
+348,St. Peters,Mid Rivers Mall,1600 Mid Rivers Mall,St. Peters,MO,63376,(636) 278-5050,38.7964,-90.6147
+349,Hurst,Northeast Mall,1101 Melbourne Road,Hurst,TX,76053,(817) 590-0740,32.831,-97.1985
+360,Chesterfield,Waterside Market Place,50580 Waterside Drive,Chesterfield Twp,MI,48051,(586) 949-0760,42.6701,-82.8271
+362,Tempe,Emerald Center,8550 South Emerald Drive,Tempe,AZ,85284,(480) 592-0938,33.3368,-111.971
+363,Gilbert,San Tan Village,2269 San Tan Village Parkway,Gilbert,AZ,85295,(480) 899-3993,33.309,-111.745
+364,Glendale,Arrowhead Towne Center,7680 West Arrowhead Towne Center,Glendale,AZ,85308,(623) 334-8366,33.6426,-112.224
+365,Deer Valley,The Shops At Norterra,2350 West Happy Valley Road,Phoenix,AZ,85085,(623) 434-3388,33.7147,-112.11
+366,South Aurora,Cornerstar,"15400 East Briarwood Circle, Unit A",Aurora,CO,80016,(303) 617-7930,39.5929,-104.809
+367,Southglenn,The Streets Of Southglenn,6737 S. Vine Street,Centennial,CO,80122,(303) 797-3360,39.5939,-104.965
+369,Carbondale,University Place,1250 East Main Street,Carbondale,IL,62901,(618) 549-7581,37.734,-89.1925
+373,Ocala,Market Street At Heathbrook,"4414 Sw College Road, Suite 1800",Ocala,FL,34474,(352) 237-7672,29.1423,-82.1911
+375,Wolfchase,Countrywood Crossings,2393 N. Germantown Parkway,Cordova,TN,38016,(901) 386-5302,35.1907,-89.7962
+376,Memphis,Centennial Commons,766 Polo Grounds Blvd,Memphis,TN,38125,(901) 737-2216,35.052,-89.8045
+377,Rockwall,The Plaza At Rockwall,1005 E. Ih30,Rockwall,TX,75087,(972) 722-4434,32.9038,-96.4527
+378,Rochester,Shoppes On Maine,4603 Maine Avenue Se,Rochester,MN,55904,(507) 252-9651,43.9552,-92.4656
+379,Millville,Union Lake Crossing,2126 North 2Nd Street,Millville,NJ,08332,(856) 293-8520,39.4217,-75.045
+380,Green Bay,Maverick Phase Ii,811 Pilgrim Way,Green Bay,WI,54304,(920) 490-8488,44.4809,-88.0682
+381,Garland,Firewheel Town Center,205 Coneflower Drive,Garland,TX,75040,(972) 495-3208,32.9513,-96.6139
+382,Hanover,North Hanover Mall,1155 Carlisle Street,Hanover,PA,17331,(717) 632-9362,39.8221,-76.9954
+383,Williamsburg,The Marquis,120 Gristmil Plaza,Williamsburg,VA,23185,(757) 258-3364,37.2554,-76.6407
+384,Huber Heights,North Heights Plaza,8220 Old Troy Pike,Huber Heights,OH,45424,(937) 237-1900,39.8744,-84.1336
+385,Oxford,Oxford Exchange,1500 Oxford Exchange,Oxford,AL,36203,(256) 831-7739,33.6093,-85.7801
+386,Shreveport,Kings Crossing,7543 Youree Drive,Shreveport,LA,71105,(318) 797-9110,32.4366,-93.7121
+387,Dallas,Galleria,13838 Dallas Parkway,Dallas,TX,75240,(972) 239-5455,32.9353,-96.8208
+388,Augusta,Augusta Mall,3450 Wrightsboro Road,Augusta,GA,30909,(706) 733-1199,33.4649,-82.0807
+389,Selinsgrove,Monroe Commons,486 Martketplace,Selinsgrove,PA,17870,(570) 743-1780,40.8434,-76.8368
+390,Sanford,Seminole Towne Center,350 Towne Center Circle,Sanford,FL,32771,(407) 324-5800,28.8036,-81.3379
+393,Roseville,Crossroads Mall,1645 County Road B2 W,Roseville,MN,55113,(651) 633-7242,45.0163,-93.169
+395,Flowood,Market Street At Flowood,720 Mackenzie Lane,Flowood,MS,39232,(601) 992-2341,32.3371,-90.0683
+396,Danville,Coleman Marketplace,145 Holt Garrison Parkway,Danville,VA,24540,(434) 792-9612,36.5991,-79.4189
+397,Burlington,Alamance West,1465 Boone Station Drive,Burlington,NC,27215,(336) 584-7545,36.0701,-79.5149
+398,Papillion,Shadow Lake Towne Center,7403 Town Center Parkway,Papillion,NE,68046,(402) 592-1642,41.1331,-96.0267
+399,Baton Rouge,Mall Of Louisiana,9330 Mall Of Louisiana Blvd. Suite 200,Baton Rouge,LA,70809,(225) 766-9100,30.3867,-91.0817
+405,Dublin,Dublin,6111 Sawmill Road,Dublin,OH,43017,(614) 798-1111,40.0907,-83.0943
+407,Woodbury,Tamarack Village,8292 Tamarack Village,Woodbury,MN,55125,(651) 731-0200,44.942,-92.9407
+408,Leawood,Town Center Plaza,11801 Nall Avenue,Leawood,KS,66211,(913) 661-0200,38.9145,-94.6484
+409,Minnetonka,West Ridge Market,11260 Wayzata Blvd,Minnetonka,MN,55305,(952) 525-0200,44.9736,-93.4239
+411,Richfield,Richfield,1700 W 78Th Street,Richfield,MN,55423,(612) 869-0200,44.8633,-93.3013
+412,Schaumburg,Streets Of Woodfield,"601 N Martingale, Suite 195",Schaumburg,IL,60173,(847) 995-0200,42.0416,-88.0344
+413,Fairlakes,East Market,12501 Fairlakes Circle,Fairfax,VA,22033,(703) 803-0300,38.8573,-77.379
+414,Washingtonian,Washingtonian Center,2 Grand Corner Avenue,Gaithersburg,MD,20878,(301) 947-0200,39.1178,-77.2011
+415,Lombard,Fountain Square,810 E Butterfield Road,Lombard,IL,60148,(630) 317-0200,41.8421,-87.9966
+416,Castleton,Castleton Square Mall,6020 E 82Nd Street,Indianapolis,IN,46250,(317) 576-0300,39.9096,-86.0632
+417,Kennesaw,Town Center Commons,691 Ernest W Barrett Parkway Nw,Kennesaw,GA,30144,(770) 281-0200,34.0044,-84.5724
+418,Lenox,Lenox Marketplace,3535 Peachtree Road,Atlanta,GA,30326,(404) 267-0200,33.8529,-84.3599
+419,Buford,Mall Of Georgia At Millcreek,3333 Buford Drive,Buford,GA,30519,(678) 482-1200,34.0652,-83.9828
+420,Grandville,Rivertown Crossings,3660 Rivertown Parkway,Grandville,MI,49418,(616) 249-0660,42.8803,-85.7548
+421,Frisco,Stonebriar Center,2611 Preston Road,Frisco,TX,75034,(214) 618-0200,33.1003,-96.8105
+422,Cheektowaga,Walden Galleria,2 Walden Galleria,Buffalo,NY,14225,(716) 651-0600,42.9138,-78.764
+423,Broomfield,Flatiron Crossing,31 West Flatiron Crossing Drive,Broomfield,CO,80021,(720) 887-0900,39.9339,-105.133
+424,Arlington,Parks At Arlington,3891 South Cooper Street,Arlington,TX,76015,(817) 987-4800,32.6784,-97.1288
+425,Louisville,Oxmoor Center,7900 Shelbyville Road,Louisville,KY,40222,(502) 420-6400,38.2481,-85.61
+426,Freehold,Freehold Raceway Mall,650 Trotter's Way,Freehold,NJ,07728,(732) 358-1400,40.252,-74.2966
+427,Rochester,Marketplace Mall,305 Miracle Mile Drive,Rochester,NY,14623,(585) 697-7400,43.0826,-77.6351
+429,Salt Lake City,The Gateway,41 South Rio Grande,Salt Lake City,UT,84101,(801) 456-0200,40.7684,-111.904
+431,Colorado Springs,First And Main Tower Center,3133 Cinema Point,Colorado Springs,CO,80922,(719) 638-3400,38.8793,-104.717
+432,Novi,Fountain Walk,44225 12 Mile Road,Novi,MI,48377,(248) 596-3400,42.4939,-83.4847
+434,Lyndhurst,Legacy Village,24545 Cedar Road,Lyndhurst,OH,44124,(216) 706-9400,41.504,-81.5043
+435,Danvers,Liberty Tree,96 Commonwealth Avenue,Danvers,MA,01923,(978) 646-6400,42.5512,-70.9448
+436,Littleton,Park Meadows Mall,8435 Park Meadows Center Drive,Littleton,CO,80124,(720) 479-0600,39.5634,-104.876
+437,Niles,Village Crossing,5601 Touhy Avenue,Niles,IL,60714,(847) 779-8800,42.009,-87.7681
+438,Okemos,Meridian Mall,"1982 W. Grandriver Avenue, Suite 310",Okemos,MI,48864,(517) 853-0400,42.7258,-84.4179
+440,Henderson,Galleria At Sunset,1308 West Sunset Road,Henderson,NV,89014,(702) 855-5000,36.0679,-115.041
+442,Geneva,Geneva Commons,618 Commons Drive,Geneva,IL,60134,(630) 943-4100,41.8953,-88.3437
+443,Peoria,The Shoppes At Grand Prarie,5205 West War Memorial Drive,Peoria,IL,61615,(309) 683-2400,40.7808,-89.673
+447,Richmond,Stony Point Fashion Park,9204 Stony Point Pkwy,Richmond,VA,23235,(804) 253-0800,37.5484,-77.5726
+448,Virginia Beach,Town Center At Virginia Beach,"4621 Columbus Street, Suite 100",Virginia Beach,VA,23462,(757) 493-6400,36.8406,-76.1364
+449,Omaha,Westroads Mall,9901 Nicholas Street,Omaha,NE,68114,(402) 951-4400,41.2675,-96.0678
+450,Woodbridge,Woodbridge Center,366 Woodbridge Center Drive,Woodbridge,NJ,07095,(732) 621-8400,40.5554,-74.2983
+451,Hoover,Patton Creek,4401 Creekside Avenue,Hoover,AL,35244,(205) 909-1400,33.3745,-86.8179
+452,Des Peres,West County Center,200 West County Center,Des Peres,MO,63131,(314) 649-1400,38.5999,-90.4469
+454,Orland Park,Orland Park Place,"One Orland Park Place, Suite 1",Orland Park,IL,60462,(708) 675-3100,41.6137,-87.8514
+456,Glenview,The Glen,1900 Tower Drive,Glenview,IL,60026,(847) 730-7400,42.0892,-87.8251
+464,Garden City,Roosevelt Field,630 Old Country Road,Garden City,NY,11530,(516) 247-6400,40.7386,-73.6125
+466,Lakewood,Belmar Center,7313 West Alaska Drive,Lakewood,CO,80226,(303) 600-2600,39.7097,-105.078
+468,North Olmsted,Great Northern Mall,200 Great Northern Mall,North Olmsted,OH,44070,(440) 686-2400,41.4179,-81.9065
+471,South Park,South Park Mall,4325 Barclay Downs Drive,Charlotte,NC,28209,(704) 972-9400,35.1532,-80.8339
+475,Indianapolis,Trader's Point,6030 West 86Th Street,Indianapolis,IN,46278,(317) 956-1400,39.9126,-86.2674
+476,Algonquin,Algonquin,1816 Randall Road,Algonquin,IL,60102,(847) 960-7700,42.1515,-88.3399
+604,Lancaster,River Valley Mall,1500 River Valley Circle,Lancaster,OH,43130,(740) 654-6215,39.7319,-82.6262
+607,Port Huron,Fort Gratiot Shopping Center,4715 24Th Avenue,Port Huron,MI,48059,(810) 385-5273,43.0443,-82.4593
+608,Conway,Conway Commons,620 Elsinger Boulevard,Conway,AR,72032,(501) 336-0700,35.068,-92.4143
+609,Escondido,Escondido Promenade,1200 Auto Park Way,Escondido,CA,92029,(760) 233-2700,33.1095,-117.097
+610,Metairie,Lakeside Shopping Center,3301 Veterans Memorial,Metairie,LA,70002,(504) 835-0091,30.0084,-90.1588
+612,Danbury,Danbury Fair Mall,7 Backus Avenue,Danbury,CT,06810,(203) 730-0164,41.3812,-73.4783
+613,Manhattan,Manhattan Marketplace,401 3Rd Place,Manhattan,KS,66502,(785) 539-7800,39.1851,-96.5605
+614,Frederick,Francis Scott Key Mall,"5500 Buckeystown Pike, Suite 900",Frederick,MD,21703,(240) 772-3181,39.3827,-77.4072
+615,El Cajon,Parkway Plaza,565 Fletcher Parkway,El Cajon,CA,92020,(619) 447-0191,32.8067,-116.968
+616,Nashua,Pheasant Lane Mall,310 Daniel Webster Highway,Nashua,NH,03060,(603) 888-3579,42.7019,-71.4385
+617,Daphne,Jubilee Square,6850 Us Highway 90,Daphne,AL,36526,(251) 621-0031,30.6537,-87.9069
+619,Coon Rapids,Riverdale Village,12661 Riverdale Blvd.,Coon Rapids,MN,55448,(763) 323-8611,45.2016,-93.3488
+621,Renton,The Landing In Renton,915 North Landing Way,Renton,WA,98057,(425) 255-3070,47.4961,-122.203
+622,Fresno,Arbor Faire,3380 West Shaw Avenue,Fresno,CA,93711,(559) 271-2701,36.81,-119.853
+623,Clovis,Clovis Shopping Centre,1225 Herndon Avenue,Clovis,CA,93612,(559) 322-4628,36.8396,-119.694
+624,Modesto,Vintage Faire Mall,3401 Dale Road,Modesto,CA,95356,(209) 578-1215,37.6879,-121.053
+626,Staten Island,Shops On Richmond Avenue,2505 Richmond Avenue,Staten Island,NY,10314,(718) 982-7260,40.5865,-74.1674
+628,Yonkers,Ridge Hill,45 Fitzgerald Street,Yonkers,NY,10710,(914) 964-0580,40.9666,-73.8574
+629,Fort Smith,Fort Smith Pavilion,3825 Phoenix Avenue,Fort Smith,AR,72903,(479) 646-8900,35.3401,-94.3906
+631,Waterford Lakes,Shoppes At Alafaya,1100 Alafaya Trail,Orlando,FL,32828,(407) 380-9066,28.5592,-81.208
+633,Aberdeen,Center Park,"11109 Highway 15/501, Suite A",Aberdeen,NC,28315,(910) 246-0778,35.1565,-79.4176
+634,Layton,Layton Hills Mall,1201 N Hill Field Road #1024,Layton,UT,84041,(801) 444-6656,41.0776,-111.978
+635,Liberty,Liberty Triangle,1890 College Street,Liberty,MO,64068,(816) 407-1111,39.2478,-94.4485
+636,Pocatello,Pocatello Square,1844 Hurley Drive,Pocatello,ID,83202,(208) 238-6002,42.9083,-112.459
+637,Clearwater,Countryside Center,26583 Hwy 19 North,Clearwater,FL,33761,(727) 791-8580,28.0137,-82.7344
+638,South Hills,South Hills Village,"301 South Hills Village Drive, Suite #201",Pittsburgh,PA,15241,(412) 831-5570,40.3438,-80.0574
+639,Lexington Park,Lexington Village,46260 Lexington Village Way,Lexington Park,MD,20653,(240) 725-0142,38.2839,-76.4803
+641,Gainesville,Shops At Stonewall,8009 Stonewall Shops Square,Gainesville,VA,20155,(571) 248-6261,38.7851,-77.6486
+643,Naperville,Springbrook Prairie Pavillion,2763 W 75Th Street,Naperville,IL,60540,(630) 548-1476,41.749,-88.202
+644,Brunswick,Glynn Isles,440 Glynn Isles,Brunswick,GA,31525,(912) 262-2433,31.2044,-81.481
+645,Suffolk,Harbour View East,"6253 College Drive, Suite 200",Suffolk,VA,23435,(757) 638-2001,36.8801,-76.4288
+646,West Chesterfield,Hancock Village,14629 Hancock Village Street,West Chesterfield,VA,23832,(804) 639-1107,37.4009,-77.6761
+662,Hot Springs,Fairground Crossing,1420 Higdon Ferry Road,Hot Springs,AR,71913,(501) 624-0200,34.4696,-93.0723
+667,Albany,Crossgates Mall,1 Crossgates Mall Road,Albany,NY,12203,(518) 218-7410,42.69,-73.8535
+668,Plantation,The Fountains,801 S. University Drive,Plantation,FL,33324,(954) 472-8855,26.1102,-80.2532
+669,Pembroke Pines,Pembroke Crossings,11940 Pines Blvd.,Pembroke,FL,33026,(954) 430-5873,26.0058,-80.3099
+670,Hillsboro,Crossroads Shopping Center,7280 Nw Butler Street,Hillsboro,OR,97124,(503) 547-2904,45.5352,-122.905
+671,Puyallup,South Hills,"3500 S. Meridian Street, #600",Puyallup,WA,98373,(253) 845-5188,47.1581,-122.296
+672,Paramus,Paramus Towne Square,"240 Route 17, North",Paramus,NJ,07652,(201) 261-2926,40.935,-74.0678
+673,Eugene,Delta Oaks,1030 Greenacres Road,Eugene,OR,97408,(541) 344-9622,44.0911,-123.096
+674,Salem,Salem,275 Lancaster Drive,Salem,OR,97301,(503) 363-4860,44.9308,-122.985
+675,Lake Oswego,Meridian Square,17799 Lower Boones Ferry Road,Lake Oswego,OR,97035,(503) 635-3800,45.3984,-122.743
+676,Bend,Cascade Village Shopping Center,"63455 N Highway 97, Suite 8",Bend,OR,97701,(541) 317-4820,44.1002,-121.303
+677,Gresham,Gresham Town Fair,700 Nw Eastman Parkway,Gresham,OR,97030,(503) 667-1950,45.5025,-122.434
+678,Portland,Hayden Meadows Square,1140 N. Hayden Meadows Drive,Portland,OR,97217,(503) 285-5040,45.5941,-122.677
+679,Clackamas,Johnson Creek Crossing,9600 Se 82Nd Street,Clackamas,OR,97086,(503) 788-7616,45.454,-122.577
+681,Vernon Hills,Fashion Square,700 N. Milwaukee Avenue Unit #121,Vernon Hills,IL,60061,(847) 573-8240,42.2377,-87.9472
+682,Daytona Beach,International Speedway Square,"2500 W. International Speedway Blvd, Suite 100",Daytona Beach,FL,32114,(386) 255-5533,29.1801,-81.0819
+683,Clarksville,Governor's Square,"2801 Wilma Rudolph Blvd, Unit 195",Clarksville,TN,37040,(931) 645-2255,36.589,-87.2877
+684,Boynton Beach,Boynton Festive Center,515 N. Congress Ave,Boynton Beach,FL,33426,(561) 734-7771,26.5323,-80.0929
+685,Meridian,Centre Point Marketplace,3415 N Eagle Road,Meridian,ID,83646,(208) 884-2026,43.6361,-116.358
+686,Boardman,Applewood Commons,550 Boardman-Poland Road,Boardman,OH,44514,(330) 629-6871,41.025288,-80.645227
+687,Bloomfield,Bloomfield Town Square,2105 Telegraph Road,Bloomfield,MI,48302,(248) 456-1806,42.6093,-83.2969
+688,Waterloo,Crossroads Commons,1411 Flammang Drive,Waterloo,IA,50702,(319) 287-5722,42.461,-92.3289
+689,Orchard Park,Quaker Crossing,3434 Amelia Drive,Orchard Park,NY,14127,(716) 821-1616,42.7925,-78.7867
+690,White Plains,The Source,1 Maple Avenue,White Plains,NY,10605,(914) 328-3487,41.0292,-73.7589
+691,Gastonia,Gaston Mall,"415 Cox Road, Suite 100",Gastonia,NC,28054,(704) 810-0994,35.2622,-81.1353
+692,Rock Hill,Manchester Village,548 John Ross Parkway,Rock Hill,SC,29730,(803) 324-2393,34.9428,-80.977
+693,Westminster,Town Mall,400 North Center Street,Westminster,MD,21157,(410) 848-1039,39.58,-76.983
+694,Glen Burnie,Governor Plaza,6633 Ritchie Highway,Glen Burnie,MD,21061,(410) 768-9372,39.1947,-76.6101
+695,Dubuque,Kennedy Mall,555 John F. Kennedy Road,Dubuque,IA,52002,(563) 557-6130,42.4939,-90.7225
+696,Paducah,Kentucky Oaks Mall,"5101 Hinkleville Road, Unit #600",Paducah,KY,42001,(270) 442-0100,37.08,-88.6891
+697,Bakersfield,Northwest Promenade,9300 Rosedale Hwy,Bakersfield,CA,93312,(661) 588-8100,35.386,-119.106
+698,Orlando,Millenia Plaza,4615 Millenia Plaza Way,Orlando,FL,32839,(407) 355-0733,28.4969,-81.4274
+702,Opelika,Tiger Town,2718 Enterprise Drive,Opelika,AL,36801,(334) 749-8123,32.6162,-85.4103
+703,Tupelo,The Mall At Barnes Crossing,1001 Barnes Crossing Road,Tupelo,MS,38804,(662) 844-5799,34.3095,-88.7011
+704,Jackson,The Columns,1165 Vann Drive,Jackson,TN,38305,(731) 660-4344,35.665,-88.8616
+705,Auburn,Fingerlakes Crossing,1620 Clark Street Road,Auburn,NY,13021,(315) 258-3750,42.9248,-76.6088
+706,Davenport,Posner Town Center,1300 Posner Blvd,Davenport,FL,33837,(863) 424-4444,28.2266,-81.645
+709,Park Lane,Park Lane,8030 Park Lane,Dallas,TX,75231,(214) 696-5800,32.8706,-96.7685
+711,Grafton,Grafton Commons,1020 Port Washington Road,Grafton,WI,53024,(262) 377-6349,43.3225,-87.9245
+713,Cedar Hill,Uptown Village,305 West Fm 1382,Cedar Hill,TX,75104,(972) 291-5530,32.6018,-96.9432
+714,Alliance,Alliance Town Center,9356 Sage Meadow Trail,Fort Worth,TX,76177,(817) 750-1170,32.908852,-97.313426
+717,La Cantera,The Rim Center,18103 Rim Drive,San Antonio,TX,78257,(210) 558-3444,29.6139,-98.6015
+718,San Antonio,Alamo Ranch Market,"5503 West Loop, 1604 North",San Antonio,TX,78253,(210) 680-2288,29.4897,-98.7094
+719,Manahawkin,Stafford Park,223 Stafford Park Blvd.,Manahawkin,NJ,08050,(609) 597-5396,39.7087,-74.2852
+721,Kingsport,Kingsport Pavilion,2626 East Stone Drive,Kingsport,TN,37660,(423) 245-3412,36.5529,-82.4916
+722,Knightdale,Knightdale,220 Hinton Oaks Blvd.,Knightdale,NC,27545,(919) 266-7876,35.797,-78.5127
+725,Mesa,Fiesta Mall,1455 West Southern Avenue,Mesa,AZ,85202,(480) 615-2748,33.3889,-111.86
+726,Oro Valley,Oro Valley Marketplace,11935 North Oracle Road,Oro Valley,AZ,85737,(520) 742-0792,32.4227,-110.938
+727,Sandusky,Sandusky Pavillion,4020 Milan Road (Rte. 250),Sandusky,OH,44870,(419) 621-1660,41.4207,-82.6738
+728,Aurora,Gardens On Havana,1200 S. Ironton Street,Aurora,CO,80012,(303) 755-0410,39.6944,-104.863
+729,Brighton,Prairie Center,2269 Prairie Center Parkway,Brighton,CO,80601,(720) 685-1701,39.9552,-104.782
+731,Noblesville,Hamilton Town Center,13157 Norell Lane,Noblesville,IN,46060,(317) 776-1687,39.9901,-85.9316
+739,South Fort Myers,Gulf Coast Town Center,10011 Gulf Center Drive,Fort Myers,FL,33913,(239) 433-0216,26.4856,-81.7882
+740,North Macon,The Shoppes At River Crossing,5080 Riverside Drive,Macon,GA,31210,(478) 477-6777,32.9243,-83.7128
+743,Harker Heights,Market Heights,201 East Central Texas Expressway,Harker Heights,TX,76548,(254) 690-4220,31.0735,-97.6686
+748,Wellington,Southern Crossing,8821 Southern Blvd,West Palm Beach,FL,33411,(561) 204-4133,26.6816,-80.1829
+750,Bradley,Bradley Commons,2054 N. State Route 50,Bourbonnais,IL,60914,(815) 802-0565,41.1876,-87.8478
+751,Yorkville,Kendale Marketplace,825 Erica Lane,Yorkville,IL,60560,(630) 553-5365,41.6646,-88.461
+753,Kenosha,Shops Of Prarie Ridge,9899 76Th Street,Kenosha,WI,53158,(262) 697-5764,42.564,-87.9293
+754,Allen,The Village At Allen,170 E. Stacy Road,Allen,TX,75002,(972) 678-0650,33.1246,-96.6592
+755,Bee Cave,Hill Country Galleria,3921 Market Street,Bee Cave,TX,78738,(512) 263-2953,30.3076,-97.9366
+756,New Hartford,Sangertown Square,Route 5 And 5A,New Hartford,NY,13413,(315) 798-9626,43.0823,-75.314
+758,South Fredericksburg,Cosner's Corner,9721 Jefferson Davis Parkway,Fredericksburg,VA,22407,(540) 834-4561,38.2188,-77.5029
+760,Alcoa,Hamilton Crossing,221 Hamitlon Crossing Drive,Alcoa,TN,37701,(865) 379-1480,35.7694,-83.9854
+763,Dover,Dover Mall,"1365 N Dupont Highway, Suite 6000",Dover,DE,19901,(302) 678-9160,39.19307288,-75.5391347
+764,Pflugerville,Stone Hill Town Center,19000 Limestone Commercial Drive,Pflugerville,TX,78660,(512) 252-2800,30.4711,-97.5971
+770,Irving,Las Colinas,2000 Market Place Blvd,Irving,TX,75063,(972) 402-0600,32.9214,-96.9727
+772,Crofton,Village At Waugh Chapel,1417 South Main Chapel Way,Gambrills,MD,21054,(410) 721-4941,39.0335,-76.6891
+775,Loganville,North Logan Commons,4040 Atlanta Highway,Loganville,GA,30052,(770) 466-1333,33.848,-83.9089
+778,East Huntsville,Westside Pavillion,2718 Carl T. Jones Drive,Huntsville,AL,35802,(256) 881-3212,34.6764,-86.5482
+780,Anderson,Midtown Park,140 Fritz Drive,Anderson,SC,29621,(864) 225-7252,34.5516,-82.6745
+781,Highland,Highland Grove,10251 Indianapolis Blvd,Highland,IN,46322,(219) 924-2237,41.5276,-87.4684
+782,Horseheads,Southern Tier Crossing,1216 County Route 64,Horseheads,NY,14845,(607) 796-0850,42.1583,-76.8529
+783,Columbia,Stadium Shoppes,227 N. Stadium,Columbia,MO,65203,(573) 447-1001,38.9607,-92.3746
+784,D'iberville,The Promenade,3893 Promenade Parkway,D'iberville,MS,39540,(228) 392-1607,30.4535,-88.9015
+793,Madison,Madison Grandview,175 Grandview Blvd.,Madison,MS,39110,(601) 853-4373,32.4642,-90.1374
+795,New Braunfels,Towne Center At Creekside,303 Creekside Way,New Braunfels,TX,78130,(830) 629-3100,29.7268,-98.0752
+798,Martinsburg,The Commons,398 Retail Commons Parkway,Martinsburg,WV,25403,(304) 263-1225,39.4378,-77.9937
+921,West Covina,Westfield Eastland Shopping Center,2753 Eastland Center Drive,West Covina,CA,91791,(626) 331-8227,34.0735,-117.885
+922,Upland Colonies,Colonies Crossroads,1939 North Campus Avenue,Upland,CA,91784,(909) 946-7192,34.1337,-117.639
+923,Laguna Hills,Laguna Hills Plaza Shopping Center,24821 Alicia Parkway,Laguna Hills,CA,92653,(949) 472-8180,33.6019,-117.693
+924,El Segundo,Plaza El Segundo,770 South Sepulveda Blvd.,El Segundo,CA,90245,(310) 726-9123,33.9064,-118.392
+925,Chino,Spectrum Marketplace,4044 Grand Avenue,Chino,CA,91710,(909) 590-7626,34.0019,-117.716
+926,Murrieta,Murrieta,40404 Murrieta Hot Springs Road,Murrieta,CA,92563,(951) 691-5401,33.5553,-117.176
+927,Tustin,The Market Place,2771 El Camino Real,Tustin,CA,92782,(714) 731-1300,33.7271,-117.794
+928,Moorpark,Moorpark,706 Los Angeles Avenue,Moorpark,CA,93021,(805) 978-4091,34.2778,-118.871
+929,Yorba Linda,Savi Ranch,23081 Savi Ranch Parkway,Yorba Linda,CA,92887,(714) 685-7802,33.8717,-117.734
+931,Oceanside,College Boulevard,3514 College Blvd.,Oceanside,CA,92056,(760) 945-5444,33.181,-117.294
+932,Pasadena,Hastings Village,3359 E. Foothill Boulevard,Pasadena,CA,91107,(626) 351-1843,34.1528,-118.082
+933,Ladera Ranch,Ladera Ranch,"27502 Antonio Parkway, #B",Ladera Ranch,CA,92694,(949) 365-1278,33.5634,-117.627
+935,Santa Clarita,Soledad Crossing,26591 Carl Boyer Drive,Santa Clarita,CA,91350,(661) 253-9231,34.4172,-118.507
+936,Newport Beach,Fashion Island Shopping Center,435 Newport Center Drive,Newport Beach,CA,92660,(949) 640-1107,33.6166,-117.874
+1000,Tulsa Hills,Tulsa Hills Shopping Center,7523 S. Olympia Avenue,Tulsa,OK,74132,(918) 447-1100,36.0538,-96.002
+1001,Woodland Hills,Sollco Union Plaza,10021 E 71St Street,Tulsa,OK,74133,(918) 249-4444,36.0614,-95.8652
+1002,Norcross,Peachtree Square,"6050 Peachtree Parkway, Suite 450",Norcross,GA,30092,(770) 613-0077,33.9531,-84.2319
+1005,Lisbon,Lisbon Landing,"170 River Road, Suite 2",Lisbon,CT,06351,(860) 376-4141,41.5814,-71.9914
+1006,Portage,Portage,6355 Westnedge Avenue,Portage,MI,49002,(269) 329-1956,42.2247,-85.5868
+1007,St. George,Red Rocks Commons,"15 South River Rd, Suite 240",St. George,UT,84790,(435) 673-4261,37.1074,-113.553
+1010,San Luis Obispo,Prefumo Creek Commons,11970 Los Osos Valley Road,San Luis Obispo,CA,93405,(805) 545-0740,35.2534,-120.685
+1011,Beckley,Crossroads Mall,"5475 Robert C. Byrd Drive, Unit 6",Mt. Hope,WV,25880,(304) 252-3425,37.8456,-81.1969
+1012,Cranberry,Cranberry Crossroads,2021 Mackenzie Way,Cranberry Twp.,PA,16066,(724) 778-3010,40.6876,-80.0876
+1013,Ann Arbor,Waters Place,3120 Lohr Road,Ann Arbor,MI,48108,(734) 332-6095,42.2399,-83.7623
+1015,Ne Columbia,Target Center,10204A Two Notch Road,Columbia,SC,29229,(803) 699-8380,34.1184,-80.88
+1016,Hattiesburg,Turtle Creek Mall,1000 Turtle Creek Road,Hattiesburg,MS,39402,(601) 264-6648,31.3229,-89.3757
+1017,Duluth,Miller Hill Mall,1600 Miller Trunk Highway,Duluth,MN,55811,(218) 727-2078,46.803644,-92.158382
+1018,Holly Springs,Holly Springs Towne Center,168 Grand Hill Place,Holly Springs,NC,27540,(919) 552-4148,35.66364962,-78.84840368
+1019,Ft. Lauderdale,Regions Bank Plaza,2420 North Federal Hwy,Ft. Lauderdale,FL,33305,(954) 566-1448,26.1564,-80.1171
+1020,Mt. Pleasant,Indian Hills Plaza,4208 E. Bluegrass Road,Mt. Pleasant,MI,48858,(989) 772-1990,43.5729,-84.7635
+1021,Heath,Indian Mound Mall,771 South 30Th Street,Heath,OH,43056,(740) 522-5555,40.0298,-82.448
+1022,Broken Arrow,Shops At Broken Arrow,1620 E. Hillside Drive,Broken Arrow,OK,74012,(918) 355-3310,36.0675,-95.7729
+1023,Canton,Premier Center,45700 Michigan Avenue,Canton,MI,48188,(734) 495-0387,42.2738,-83.4896
+1024,Morehead City,Crystal Coast Plaza,5130 Highway 70 West,Morehead,NC,28557,(252) 222-3244,34.7401,-76.8044
+1025,Huntington Beach,Edinger Plaza,7542 Edinger Avenue,Huntington Beach,CA,92647,(714) 847-3179,33.7287,-117.997
+1026,San Diego,Sports Arena Square,3265 Sports Arena Blvd.,San Diego,CA,92110,(619) 523-0975,32.7515,-117.211
+1027,Hanover,Hanover Mall,1803 Washington Street,Hanover,MA,02339,(781) 826-9282,42.1434,-70.8409
+1028,Harrisonburg,Valley Mall,1925 East Market Street,Harrisonburg,VA,22801,(540) 433-1268,38.4284,-78.845
+1029,St. Joseph,Cook Crossing,4204 North Belt Highway,St. Joseph,MO,64506,(816) 390-8088,39.8079,-94.8169
+1030,Northborough,Northborough Crossing,5102 Shops Way,Northborough,MA,01532,(508) 393-1638,42.2885,-71.6711
+1031,Wheaton,Wheaton Plaza,"11160 Veirs Mill Road, Suite P100",Wheaton,MD,20902,(301) 933-3494,39.0349,-77.0551
+1032,Union,Route 22 Retail Center,2700A Route 22 East,Union,NJ,07083,(908) 964-2580,40.6871,-74.3107
+1033,Oxnard,Esplande Center,231 W. Esplande Drive,Oxnard,CA,93036,(805) 973-1260,34.2333,-119.176
+1034,Cottonwood,Cottonwood Place,3550 State Highway 528 Nw,Albuquerque,NM,87114,(505) 899-0355,35.2054,-106.653
+1036,Federal Way,The Commons,1819 S. Commons,Federal Way,WA,98003,(206) 400-2811,47.31327,-122.3103241
+1037,Lakeland,Lakeland Park Center,"919 Lakeland Park Center Dr., Suite 300",Lakeland,FL,33809,(863) 248-1200,28.090304,-81.970709
+1039,Pensacola,Cordova Mall,5100 N 9Th Avenue,Pensacola,FL,32504,(850) 478-9605,30.475556,-87.205909
+1040,Monroe,Pecanland Mall,"4700 Millhaven Road, Suite 1566",Monroe,LA,71203,(318) 410-1156,32.498,-92.0606
+1041,North Jacksonville,Parkway Shops,"14964 Max Leggett Parkway, Suite 300",Jacksonville,FL,32218,(904) 757-9602,30.482,-81.6409
+1042,Panama City Beach,Pier Park North,"15700 Panama City Beach Park, Unit 400",Panama City Beach,FL,32413,(850) 238-3322,30.224548,-85.868737
+1044,Slidell,Fremaux Town Center,250 Town Center Parkway,Slidell,LA,70458,(985) 718-3252,30.267207,-89.75795
+1045,Miamisburg,Dayton Mall,"2700 Miamisburg Centerville Road, Suite 388",Dayton,OH,45459,(937) 436-5754,39.6332,-84.2189
+1046,Syracuse,Destiny Usa,10311 Destiny Usa Drive,Syracuse,NY,13204,(315) 471-7770,43.067,-76.1721
+1047,Redding,Redding Hilltop Center,875 Browning Street,Redding,CA,96003,(530) 221-1399,40.591678,-122.356671
+1048,Petaluma,East Washington Place,"401 Kenilworth Drive, Suite 1030",Petaluma,CA,94952,(707) 763-3750,38.243412,-122.624013
+1049,Santa Rosa,Coddingtown Mall,1975 Cleveland Avenue,Santa Rosa,CA,95401,(707) 228-1223,38.455938,-122.72787
+1060,Commack,Commack Shopping Center,6070 Jericho Turnpike,Commack,NY,11725,(631) 499-1410,40.8406,-73.3063
+1062,El Paso,The Fountains At Farah,"8889 Gateway West Blvd, Suite 110",El Paso,TX,79925,(915) 633-1120,31.771103,-106.373414
+1064,Midvale,Family Center At Fort Union,7171 S 1000 E,Midvale,UT,84047,(801) 566-2920,40.621,-111.862
+1065,Orem,Family Center At Orem,130 E University Parkway,Orem,UT,84058,(801) 225-7073,40.2716,-111.692
+1066,Greenville,11 Galleria,3500 Galleria Drive,Greenville,NC,27834,(252) 329-0241,35.5678,-77.4072
+1067,Bluffton,Bluffton Target Center,"1050 Fording Island Road, Suite B",Bluffton,SC,29910,(843) 815-3000,32.255,-80.8509
+1068,Athens,Epps Bridge Center,"1791 Oconee Connector, Suite 120",Athens,GA,30606,(706) 227-4077,33.914978,-83.452745
+1069,Visalia,Gateway Plaza,3637 S. Mooney Blvd.,Visalia,CA,93277,(559) 636-0633,36.2975,-119.316
+1070,Salinas,Westridge Center,1223 N. Davis Road,Salinas,CA,93907,(831) 751-9019,36.7006,-121.669
+1071,Dublin,Fallon Gateway,2820 Dublin Blvd.,Dublin,CA,94568,(925) 479-0680,37.703951,-121.853734
+1072,Pleasant Hill,The Crossroads,2314 Monument Blvd,Pleasant Hill,CA,94523,(925) 222-3508,37.942237,-122.058127
+1073,Wauwatosa,Mayfair Collection,"11500 West Burleigh Street, Suite 140",Wauwatosa,WI,53222,(414) 203-1380,43.07701,-88.056721
+1074,Kendall,The Palms At Town & Country,11900 Mills Drive,Miami,FL,33183,(305) 595-9410,25.689833,-80.386052
+1075,Spokane Valley,Spokane Valley Mall,14014 East Indiana Avenue,Spokane Valley,WA,99216,(509) 891-0977,47.674,-117.212
+1076,Las Cruces,Las Cruces,200 North Telshor Blvd.,Las Cruces,NM,88011,(575) 522-9756,32.3198,-106.747
+1077,Jefferson City,Stoneridge Village,739 Stoneridge Parkway,Jefferson City,MO,65109,(573) 556-5602,38.5793,-92.2219
+1078,Alabaster,Colonial Promenade Alabaster,200 S. Colonial Drive,Alabaster,AL,35007,(205) 564-2648,33.225937,-86.804886
+1079,Quail Spring,Shops At Quail Spring,14200 N. Pennsylvania Avenue,Oklahoma City,OK,73134,(405) 749-4610,35.6148,-97.548
+1080,Moore,Fritts Farm,760 Sw 19Th Street,Moore,OK,73160,(405) 237-1585,35.3177,-97.5013
+1081,Westgate,Westgate Marketplace,6601 Sw 3Rd Street,Oklahoma City,OK,73128,(405) 491-2570,35.4633,-97.6298
+1082,Midwest City,Town Center Plaza,7095 Se 29Th Street,Midwest City,OK,73110,(405) 732-0820,35.4378,-97.4048
+1083,West Nyack,Palisades Center,2400 Palisades Center Drive,West Nyack,NY,10994,(845) 353-1086,41.0967,-73.9574
+1084,Fort Myers,Page Field Commons,4977 Cleveland Avenue,Fort Myers,FL,33907,(239) 362-9575,26.587495,-81.869691
+1085,Oneonta,Southside Mall,"5006 State Highway 23, Suite 1C",Oneonta,NY,13820,(607) 432-0203,42.4469,-75.0466
+1086,South County,South County Mall,590 South County Center Way,South County,MO,63129,(314) 416-1905,38.504522,-90.334807
+1087,Gretna,Oakwood Center,197 Westbank Expressway,Gretna,LA,70053,(504) 361-3869,29.922302,-90.040326
+1089,Chico,Chico Mall,1922 E 20Th Street,Chico,CA,95928,(530) 343-3351,39.7288,-121.8078
+1090,Gainesville,Lakeshore Mall,"150 Pearl Nix Parkway, Suite G",Gainesville,GA,30501,(770) 534-4730,34.294727,-83.845102
+1092,Daly City,Serramonte Mall,64 Serramonte Center,Daly City,CA,94015,(415) 325-4109,37.671793,-122.472257
+1093,Colonial Heights,Southpark Mall,324 Southpark Circle,Colonial Heights,VA,23834,(804) 526-2745,37.2548,-77.3946
+1095,Riverhead,Old Country Road 58 Center,1779 Old Country Road,Riverhead,NY,11901,(631) 727-1395,40.922312,-72.702162
+1096,Easton,Waterside Village At Easton,28564 Marlboro Avenue,Easton,MD,21601,(410) 200-9560,38.7842,-76.0846
+1098,Lake Charles,Prien Lake Mall,542 West Prien Lake Road,Lake Charles,LA,70601,(337) 478-1488,30.199544,-93.2274
+1099,Tallahassee,Tallahassee Shopping Center,1729 Apalachee Parkway,Tallahassee,FL,32301,(850) 309-0490,30.4311,-84.2514
+1100,Issaquah,Grandridge Plaza,1422 10Th Way Ne,Issaquah,WA,98029,(425) 427-9284,47.541128,-122.016679
+1101,West Des Moines,Jordan Creek,"320 South Jordan Creek Parkway, Suite 100",West Des Moines,IA,50266,(515) 225-6230,41.564515,-93.807325
+1103,Salina,Midstate Plaza,2450 9Th Street,Salina,KS,67401,(785) 827-3540,38.797507,-97.615742
+1105,Palmdale,Antelope Valley Mall,1301 W. Rancho Vista Blvd.,Palmdale,CA,93550,(661) 225-8019,34.60366,-118.15358
+1106,Savannah,Market Walk,"318 Mall Blvd, Suite #200",Savannah,GA,31406,(912) 480-9037,32.00625,-81.111547
+1107,Monroeville,Monroeville Mall,501 Monroeville Mall,Monroeville,PA,15146,(412) 843-0024,40.429465,-79.797445
+1108,South Plainfield,Hadley Center,4999 Stelton Road,South Plainfield,NJ,07080,(908) 226-4912,40.550172,-74.425678
+1109,Lawton,Lawton Town Center,261 Nw 2Nd Street,Lawton,OK,73501,(580) 350-3079,34.61216954,-98.38796368
+1110,King Of Prussia,King Of Prussia Mall,"160 N Gulph Road, Suite 4000",King Of Prussia,PA,19406,(484) 751-0071,40.0875,-75.3942
+1111,Victorville,The Mall Of Victor Valley,14500 Bear Valley Road,Victorville,CA,92392,(760) 245-4151,34.473219,-117.346875
+1112,South Asheville,The Landing,329 Airport Road,Arden,NC,28704,(828) 974-3371,35.449085,-82.527423
+1113,Corpus Christi,The Shops At La Palmera,"4938 South Staples Street, Suite A-1",Corpus Christi,TX,78411,(361) 980-1535,27.70894,-97.3677
+1114,Ashland,Melody Mountain,469 River Hill Drive,Ashland,KY,41101,(606) 327-5561,38.484006,-82.657603
+1115,Bowling Green,Gary Farms,2300 Gary Farms Blvd,Bowling Green,KY,42104,(270) 796-9115,36.956328,-86.430416
+1116,Albuquerque (Uptown),Coronado Center,"6600 Menaul Blvd. Ne, Suite 2000-1",Albuquerque,NM,87110,(505) 884-4415,35.106585,-106.575485
+1118,Mentor,Great Lakes Mall,"7850 Mentor Ave, Suite 1044",Mentor,OH,44060,(440) 299-6005,41.658732,-81.360728
+1119,Cuyahoga Falls,The Plaza At Chapel Hill,498 Howe Ave,Akron,OH,44221,(330) 923-8224,41.11660938,-81.47701324
+1120,Orlando (Florida Mall),Florida Mall,"8001 S Orange Blossom Trail, Suite 1302",Orlando,FL,32809,(321) 445-4286,28.449233,-81.400088
+1121,Coral Springs,The Plaza At Coral Springs,8921 W. Atlantic Boulevard,Coral Springs,FL,33071,(754) 484-3423,26.238573,-80.245685
+1122,Casper,Eastridge Mall,601 Se Wyoming Blvd,Casper,WY,82609,(307) 265-4266,42.845408,-106.264273
+1124,Sioux Falls,Empire Mall,1080 W Empire Mall,Sioux Falls,SD,57106,(605) 362-6550,43.51076,-96.774622
+1125,Seabrook,Seabrook Town Center,"700 Lafayette Road, Suite 212",Seabrook,NH,03874,(603) 760-7369,42.89254745,-70.86652486
+1126,Palm Desert,Westfield Palm Desert,"72-840 Highway 111, A130",Palm Desert,CA,92260,(760) 340-3526,33.724108,-116.395622
+1127,Stroudsburg,Bartonsville Square,500 Commerce Blvd,Stroudsburg,PA,18360,(570) 421-7501,40.998599,-75.265962
+1129,South San Antonio,South Park Mall,"2310 S.W. Military Drive, Suite #2002",South San Antonio,TX,78224,(210) 202-2206,29.3552115,-98.52866253
+1130,Tampa,Westshore Plaza,258 Westshore Plaza,Tampa,FL,33609,(813) 422-5132,27.946727,-82.529415
+1131,Prescott,Prescott Valley Crossroads,5715 E. State Route 69,Prescott Valley,AZ,86314,(928) 776-0499,34.57514999,-112.3625174
+1132,Newport,Newport Pavillion,175 Pavillion Parkway,Newport,KY,41071,(859) 261-1348,39.08635164,-84.47500985
+1133,South Loop,The Maxwell,1100 S. Canal Street,Chicago,IL,60607,(312) 448-2184,41.867925,-87.631115
+1134,Osage Beach,Lakeview Pointe,4635 Osage Beach Parkway,Osage Beach,MO,65065,(573) 302-7470,38.14505815,-92.63124982
+1136,Morganton,Morganton Heights,C138 Morganton Heights Blvd,Morganton,NC,28655,(828) 433-8332,35.72597989,-81.69968655
+1137,Batavia,Towne Center At Batavia,4180 Veterans Memorial Drive,Batavia,NY,14020,(585) 344-7150,43.01334967,-78.20391763
+1138,Findlay,Hobby Lobby Plaza,1960 Tiffin Avenue,Findlay,OH,45840,(419) 423-5830,41.05520981,-83.60825344
+1139,North Myrtle Beach,Coastal North Town Center,1536 Highway 17 North,North Myrtle Beach,SC,29582,(843) 213-2103,33.84062675,-78.6571571
+1140,Frankfort,Parkside,"7800 John Davis Drive , Suite #100",Frankfort,KY,40601,(502) 871-3624,38.17584098,-84.82095653
+1141,Springfield,Springfield Town Center,6601 Springfield Mall,Springfield,VA,22150,(571) 255-6367,38.7734,-77.1739
+1142,Mccandless,Mccandless Crossing,830 Providence Boulevard,Mccandless,PA,15237,(412) 548-0012,40.56913334,-80.01966767
+1143,Tuscaloosa,Shoppes At Legacy Park,"1320 Mcfarland Blvd E, Bldg 400, Suite 410",Tuscaloosa,AL,35404,,33.198974,-87.527396
+1144,Mayfaire Town Center,,6810 Parker Farm Drive,Wilmington,NC,28405,(910) 208-4437,34.23430062,-77.83157782
+1145,Clermont,Sandhills Commons,1325 Sandy Grove Avenue,Clermont,FL,34711,(352) 404-5354,28.54388989,-81.73334779
+1146,Garden City,Schulman Crossing,1540 Lareu Street,Garden City,KS,67846,(620) 805-3442,37.97880937,-100.8342806
+1147,Livonia,Livonia Commons,13501 Middlebelt Road,Livonia,MI,48150,(734) 293-0069,42.378074,-83.335686
+1148,Culpeper,Culpeper Colonnade,15359 Montanus Drive,Culpeper,VA,22701,(540) 317-4839,38.48322022,-77.96596011
+1149,Chicago (New City),New City,1538 N. Clybourn Avenue,Chicago,IL,60610,,41.909246,-87.647825
+1160,Bismarck,Hay Creek Shops,1451 East Lasalle Drive,Bismarck,ND,58503,,46.860148,-100.767523
+1161,Culllman,Cullman Shopping Center,1216 Cullman Shopping Center Nw,Cullman,AL,35055,,34.181521,-86.848964
+1162,Muncie,Center Shoppes,620 E Mcgalliard Road,Muncie,IN,47303,(765) 212-3677,40.22063,-85.38076139
+1163,Lawrence,Lawrence,"2727 Iowa St, Suite C",Lawrence,KS,66046,(785) 312-3317,38.9336494,-95.26242559
+1165,Twin Falls,Canyon Park West,1939 Fillmore Street,Twin Falls,ID,83301,(208) 944-3105,42.597078,-114.458756
+1166,Easton,Easton Gateway Shopping Center,4304 Easton Gateway Drive,Columbus,OH,43219,(614) 472-4250,40.05438954,-82.90449118
+1167,Nampa,Treasure Valley Crossing,16905 N Marketplace Blvd,Nampa,ID,83687,(208) 546-3433,43.6146,-116.598
+1168,Naples,Naples,5955 Naples Blvd,Naples,FL,34109,(239) 325-6456,26.218,-81.7757
+1170,Fremont,Pacific Commons,43923 Pacific Commons Blvd,Fremont,CA,94538,(510) 897-6475,37.5004,-121.97
+1171,Parma,The Shoppes At Parma,8113 W Ridgewood Drive,Parma,OH,44129,(440) 345-3035,41.382178,-81.743378
+1173,Arcola,Dulles Landing,24560 Dulles Landing Drive,Arcola,VA,20166,(571) 367-5120,38.933279,-77.520162
+1175,Columbus,University Mall,2041 Us 45,Columbus,MS,39705,(662) 570-1025,33.52468657,-88.43797714
+1176,Stockton,Sherwood Mall,5354 Pacific Ave,Stockton,CA,95207,(209) 992-5745,37.99915407,-121.3119169
+1177,Roseville,Macomb Mall,32385 Gratiot Avenue,Roseville,MI,48066,(586) 279-1221,42.5353,-82.9154
+1178,Washington,Phoenix Center Ii,3162 Phoenix Center Drive,Washington,MO,63090,(636) 266-3006,38.534383,-90.980166
+1179,East Colonial,Fashion Square Mall,724 Herndon Avenue,Orlando,FL,32803,(321) 332-9991,28.5549,-81.338
+1180,Richmond,Richmond Village,3718 National Road East,Richmond,IN,47374,(765) 373-9607,39.8331,-84.8497
+1181,Richmond,Richmond Centre,2145 Lantern Ridge Drive,Richmond,KY,40475,(859) 353-3009,37.7385,-84.3262
+1182,Turlock,Monte Vista Crossings,2711 Countryside Drive,Turlock,CA,95380,(209) 216-4385,37.5151,-120.881
+1184,Goldsboro,Goldsboro,Berkeley Mall Ring Road,Goldsboro,NC,27534,(919) 221-6331,35.3769,-77.946585
+1185,Patchogue,Gateway Center Ii,499-64 Sunrise Highway,Patchogue,NY,11772,(631) 891-4044,40.77863,-73.04027134
+1186,Spring Hill,Cortez Commons,12936 Cortez Blvd,Brooksville,FL,34613,(352) 200-5716,28.531397,-82.514107
+1187,La Crosse,Valley View Mall,4400 Wi-16,La Crosse,WI,54650,(608) 406-3684,43.872,-91.1925
+1189,Holland,Riley Center,3530 W. Shore Drive,Holland,MI,49424,(616) 820-0118,42.8323,-86.0915
+1192,Burlington,Burlington,2000 S. Burlington Blvd,Burlington,WA,98233,(360) 419-6072,48.44829,-122.3337075
+1193,Wentzville,Wentzville Crossing,1866 Wentzville Parkway,Wentzville,MO,63385,(636) 445-3081,38.8177,-90.8747
+1194,Scottsdale (Fashion Square),Fashion Square Mall,"7014 E Camelback Road, Suite Anc 03",Scottsdale,AZ,85251,,33.504507,-111.927584
+1196,East Cobb,East Cobb Crossing,4269 Roswell Road,Marietta,GA,30062,(678) 433-0010,33.986286,-84.426446
+1197,Chambersburg,Franklin Center,1320 Lincoln Way E - Unit 1,Chambersburg,PA,17201,,39.925644,-77.631052
+1200,Mt Pleasant,Kmart Center,1114 Bowman Road,Mt Pleasant,SC,29464,(843) 800-3032,32.812125,-79.852181
+1201,Moline,Southpark Mall,"4500 16Th St, Suite Xd1",Moline,IL,61265,(309) 517-2572,41.468003,-90.502252
+1202,Boise,Westpark Towne Plaza,131 N Milwaukee Street,Boise,ID,83704,(208) 999-3475,43.606207,-116.283346
+1205,Valparaiso,Porter's Vale,100 Porter's Vale Boulevard,Valparaiso,IN,46383,,41.469868,-87.014989
+1206,Winchester,Winchester Plaza,1675 South Pleasant Valley Road,Winchester,VA,22601,(540) 431-3487,39.167105,-78.167011
+1217,Tucson,Wilmont Plaza,6327 E. Broadway Blvd,Tucson,AZ,85710,,32.222244,-110.856347
+1218,Chillicothe,Guernsey Crossing,1251 N Bridge Street,Chillicothe,OH,45601,,39.361513,-82.974679
+1222,Bristol,The Pinnacle,434 Pinnacle Parkway,Bristol,TN,37620,(423) 217-6696,36.591865,-82.255493
+1229,Euless,Glade Parks,"2701 Rio Grande Boulevard, Suite 200",Euless,TX,76039,,32.88115,-97.09867
+1231,Burlington,Burlington Commons,"3200 Agency St, #150",Burlington,IA,52601,(319) 237-3447,40.813126,-91.159621
+1233,Uniontown,Fayette Crossing,320 Walmart Drive,Uniontown,PA,15401,,39.91689,-79.754974
+1268,Troy,Oakland Mall,562 W 14 Mile Road,Troy,MI,48083,,42.537516,-83.110415
+4600,Polaris,Polaris Fashion Place,1510 Polaris Parkway,Polaris,OH,43240,,40.147007,-82.980228
+4609,Mobile,Mcgowin Park,1390 Tingle Circle W B-3,Mobile,AL,36606,(251) 450-1334,30.650119,-88.119356
